@@ -1,0 +1,5 @@
+flask
+tensorflow==1.8.0
+keras
+tensorflow-serving-api-python3
+pillow

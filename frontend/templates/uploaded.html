@@ -1,0 +1,10 @@
+{% extends "layout.html" %} {% block body %}
+    <div class="jumbotron text-center">
+        <h1>Predicted Caption Result</h1>
+        <img src="{{ url_for('static', filename=file_path) }}" alt="image here" width="960" height="540">
+        <h5>{{ caption }}</h5>
+        <form id="" action="{{ url_for('index') }}" method="GET" enctype="multipart/form-data">
+            <button type="submit" class="btn btn-warning">Back</button>
+        </form>
+    </div>
+{% endblock %}

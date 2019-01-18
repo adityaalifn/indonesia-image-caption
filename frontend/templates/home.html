@@ -1,0 +1,11 @@
+{% extends "layout.html" %} {% block body %}
+    <div class="jumbotron text-center">
+        <h1>Welcome to Image Captioning Application!</h1>
+        <img src="{{ url_for('static', filename=file_path) }}" alt="image here">
+        <form id="" action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+            Select a file:
+            <input name="file" type="file" id="inputGroupFile04" accept="image/*">
+            <button type="submit" class="btn btn-success">Caption It!</button>
+        </form>
+    </div>
+{% endblock %}
