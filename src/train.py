@@ -46,7 +46,7 @@ class TrainInceptionV3GRU(Train):
         self.model.fit_generator(
             generator=self._train_generator,
             steps_per_epoch=self._train_data_amount // self._batch_size,
-            epochs=10,
+            epochs=20,
             validation_data=self._validation_generator,
             validation_steps=16,
             callbacks=callback.callbacks

@@ -9,7 +9,7 @@
       "test_file": "dataset/flickr8k/Flickr_8k.testImages.txt",
       "start_mark": " <start> ",
       "end_mark": " <end> ",
-      "batch_size": 128
+      "batch_size": 64
     }
   },
   "modeler": {
