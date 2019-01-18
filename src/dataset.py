@@ -53,9 +53,10 @@ class Flickr8kDataset(Dataset):
 
     def _load_captions(self):
         caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][
-            DatasetKeys.CAPTION_TOKEN_FILENAME_INDONESIA]
+            DatasetKeys.CAPTION_TOKEN_FILE_ENGLISH]
         if self.language == "indonesia":
-            caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.CAPTION_TOKEN_FILE]
+            caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][
+                DatasetKeys.CAPTION_TOKEN_FILE_INDONESIA]
         with open(caption_filename, 'r') as file:
             for row in file.read().split('\n')[:-1]:
                 # try:
@@ -114,8 +115,9 @@ class Flickr8kSingleWordDataset(Dataset):
         self._build_tokenizer()
 
     def _create_dataset(self):
-        with file_io.FileIO(self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.CAPTION_TOKEN_FILE],
-                            'r') as file:
+        with file_io.FileIO(
+                self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.CAPTION_TOKEN_FILE_ENGLISH],
+                'r') as file:
             captions = file.read().strip().split('\n')
 
         _start_mark = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.START_MARK]

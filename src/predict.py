@@ -10,7 +10,7 @@ from PIL import Image
 from keras.preprocessing import sequence
 
 from src.modeler.modeler import ImageCaptionModeler
-from src.util import convert_image_to_numpy_array, get_stub_and_request, is_tensorflow_serving_running
+from src.util import convert_image_to_numpy_array, get_stub_and_request
 
 
 class Predict(object):
@@ -226,18 +226,20 @@ if __name__ == '__main__':
     parser.add_argument('-m', '--model', default=1, type=int, help='model choice:\n'
                                                                    '1: caption an image using image caption sentence modeler\n'
                                                                    '2: caption an image using image caption single word modeler')
-
-    parser.add_argument('-p', '--path', type=str, required=True, help='your image path')
+    parser.add_argument('-p', '--imagepath', type=str, required=True, help='your image path')
+    parser.add_argument('-w', '--weightpath', type=str, required=True)
+    parser.add_argument('-l', '--language', type=str, required=True)
     args = parser.parse_known_args()
 
     model_type = args[0].model
-    image_path = args[0].path
+    image_path = args[0].imagepath
     show_image = True if '--show-image' in args[-1] else False
 
     model = None
     if model_type == 1:
-        model = InceptionV3GRUPredict()
+        model = InceptionV3GRUPredict(weight_path=args[0].weightpath, language=args[0].language)
 
-    caption = model.predict_on_serving(image_path, show_image=show_image) if is_tensorflow_serving_running() \
-        else model.predict(image_path, show_image=show_image)
+    # caption = model.predict_on_serving(image_path, show_image=show_image) if is_tensorflow_serving_running() \
+    #     else
+    caption = model.predict(image_path, show_image=show_image)
     print(caption)

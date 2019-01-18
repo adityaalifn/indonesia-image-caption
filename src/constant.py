@@ -1,6 +1,6 @@
 class DatasetKeys:
     DATASET = 'dataset'
-    CAPTION_TOKEN_FILE = 'caption_token_file'
+    CAPTION_TOKEN_FILE_ENGLISH = 'caption_token_file'
     TRAIN_FILE = 'train_file'
     VALIDATION_FILE = 'validation_file'
     TEST_FILE = 'test_file'
@@ -12,8 +12,7 @@ class DatasetKeys:
     DATASET_NAME = "dataset_name"
     DATASET_DIR = "dataset_dir"
     TOKEN_FOLDER = "token_folder"
-    CAPTION_TOKEN_FILENAME = "caption_token_file"
-    CAPTION_TOKEN_FILENAME_INDONESIA = "caption_token_file_indonesia"
+    CAPTION_TOKEN_FILE_INDONESIA = "caption_token_file_indonesia"
 
 
 class ModelerKey:

@@ -1,3 +1,5 @@
+import pickle
+
 from keras.applications import inception_v3
 from keras.preprocessing.image import ImageDataGenerator, load_img, img_to_array
 from keras.preprocessing.sequence import pad_sequences
@@ -23,6 +25,9 @@ class CaptionsPreprocessor(Preprocessor):
         self.captions = self.mark_captions(captions)
         self.tokenizer.fit_on_texts(texts=self.captions)
         self.vocab_size = len(self.tokenizer.word_index)
+
+        with open('models/tokenizer_indonesia.pickle', 'wb') as handle:
+            pickle.dump(self.tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     def mark_captions(self, captions):
         start_mark = '<start> '
