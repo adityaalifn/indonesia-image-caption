@@ -58,7 +58,7 @@ class TrainInceptionV3GRU(Train):
         self.model.save_weights(
             'models/InceptionV3GRU_weight_' + str(cur_time) + '_' + self.language + "_" + self.model.layers[
                 -2].name + '.h5')
-        self.save_tokenizer('models/tokenizer' + self.language + str(cur_time) + '.pickle')
+        self.save_tokenizer('models/tokenizer_' + self.language + '_' + str(cur_time) + '.pickle')
 
         # Save model for serving
         self._serving.save_model(self.model)
