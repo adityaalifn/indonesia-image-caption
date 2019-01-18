@@ -10,6 +10,11 @@ from src.modeler.callback import Callback
 from src.modeler.modeler import ImageCaptionModeler, ImageCaptionGruModeler
 from src.serving import KerasServing
 
+from numpy.random import seed
+seed(1)
+from tensorflow import set_random_seed
+set_random_seed(2)
+
 
 class Train(object):
     def __init__(self, config):
