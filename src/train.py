@@ -3,16 +3,19 @@ import datetime
 import os
 import pickle
 
+from numpy.random import seed
+
 from src.config import CONFS
 from src.constant import DatasetKeys
 from src.generator import Flickr8kGenerator, Flickr8kSingleWordGenerator
 from src.modeler.callback import Callback
 from src.modeler.modeler import ImageCaptionModeler, ImageCaptionGruModeler
+from src.scorer import BleuScore
 from src.serving import KerasServing
 
-from numpy.random import seed
 seed(1)
 from tensorflow import set_random_seed
+
 set_random_seed(2)
 
 
@@ -30,7 +33,7 @@ class Train(object):
 
 class TrainInceptionV3GRU(Train):
     def __init__(self, config=CONFS, existing_model_path='', train_generator=None, validation_generator=None,
-                 language="english"):
+                 language="english", score_model=True):
         super().__init__(config=config)
         self.language = language
         self._generator = Flickr8kGenerator(language=language)
@@ -40,6 +43,7 @@ class TrainInceptionV3GRU(Train):
         self._validation_data_amount = len(self._generator.validation_captions)
         self._tokenizer = self._generator.cp.tokenizer
         self.model = ImageCaptionModeler().get_model(self._generator.cp.vocab_size)
+        self.score_model = score_model
 
         # load previous model if exist
         if os.path.exists(existing_model_path):
@@ -58,15 +62,20 @@ class TrainInceptionV3GRU(Train):
         )
 
         cur_time = datetime.datetime.now()
-        self.model.save('models/InceptionV3GRU_model_' + str(cur_time) + '_' + self.language + "_" + self.model.layers[
-            -2].name + '.h5')
-        self.model.save_weights(
-            'models/InceptionV3GRU_weight_' + str(cur_time) + '_' + self.language + "_" + self.model.layers[
-                -2].name + '.h5')
-        self.save_tokenizer('models/tokenizer_' + self.language + '_' + str(cur_time) + '.pickle')
+        model_path = 'models/InceptionV3GRU_model_' + str(cur_time) + '_' + self.language + "_" + self.model.layers[
+            -2].name + '.h5'
+        model_weight_path = 'models/InceptionV3GRU_weight_' + str(cur_time) + '_' + self.language + "_" + \
+                            self.model.layers[-2].name + '.h5'
+        self.model.save(model_path)
+        self.model.save_weights(model_weight_path)
+        self.save_tokenizer('models/tokenizer_' + self.language + '.pickle')
 
         # Save model for serving
         self._serving.save_model(self.model)
+
+        if self.score_model:
+            bs = BleuScore()
+            bs.get_model_score(weight_path=model_weight_path, language=self.language)
 
 
 class ImageCaptionSingleWordTrain(Train):
@@ -103,10 +112,12 @@ if __name__ == '__main__':
     parser.add_argument('-m', '--model', type=int, default=1, help='model choice:\n'
                                                                    '1: train image caption sentence modeler\n'
                                                                    '2: train image caption single word modeler')
+    parser.add_argument('-l', '--language', type=str, default='english', help='Language: \n'
+                                                                              'english or indonesia')
     args = parser.parse_args()
 
     if args.model == 1:
-        train = TrainInceptionV3GRU(language="indonesia")
+        train = TrainInceptionV3GRU(language=args.language, score_model=True)
         train.run()
     elif args.model == 2:
         train = ImageCaptionSingleWordTrain()

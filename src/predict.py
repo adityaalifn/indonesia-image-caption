@@ -19,12 +19,11 @@ class Predict(object):
 
 
 class InceptionV3GRUPredict(Predict):
-    weight_path = 'models/InceptionV3GRU.weights.09-1.32.hdf5'
 
-    def __init__(self, weight_path=None):
+    def __init__(self, weight_path=None, language='english'):
         super().__init__()
-        self.tokenizer = self._load_tokenizer()
-        self.weight_path = weight_path or self.weight_path
+        self.tokenizer = self._load_tokenizer(language=language)
+        self.weight_path = weight_path
         self.load_model()
 
         self.start_token = self.tokenizer.word_index['<start>']
@@ -145,8 +144,11 @@ class InceptionV3GRUPredict(Predict):
 
         return predicted_caption, pred_token
 
-    def _load_tokenizer(self):
-        with open('models/tokenizer.pickle', 'rb') as handle:
+    def _load_tokenizer(self, language):
+        tokenizer_path = 'models/tokenizer.pickle'
+        if language == 'indonesia':
+            tokenizer_path = 'models/tokenizer_indonesia.pickle'
+        with open(tokenizer_path, 'rb') as handle:
             return pickle.load(handle)
 
     def beam_search_predictions(self, image_path, max_words=30, beam_index=3):

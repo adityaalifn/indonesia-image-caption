@@ -38,11 +38,11 @@ class BleuScore(Score):
 
         return bleu1, bleu2, bleu3, bleu4
 
-    def get_model_score(self, save_score_to_file=False, weight_path=None):
+    def get_model_score(self, save_score_to_file=True, weight_path=None, language="english"):
         dataset = Flickr8kDataset()
         filenames, captions = dataset.get_test_dataset()
         img_folder_path = CONFS[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.IMAGE_FOLDER]
-        model = InceptionV3GRUPredict(weight_path)
+        model = InceptionV3GRUPredict(weight_path, language=language)
 
         count = 0
         target_captions = []
@@ -60,12 +60,12 @@ class BleuScore(Score):
 
                 target_captions = []
                 count += 1
-                self.print_progress_bar(count, 1000, 'Bleu scoring is in progress...')
+                self.print_progress_bar(count, 1000, 'BLEU scoring is in progress...')
 
         if save_score_to_file:
             weight_path = model.weight_path
             with open('score.txt', 'a') as text_file:
-                print(f'({weight_path}) Bleu Score: {bleu1/1000} {bleu2/1000} {bleu3/1000} {bleu4/1000}',
+                print(f'({weight_path}) Bleu Score: {bleu1 / 1000} {bleu2 / 1000} {bleu3 / 1000} {bleu4 / 1000}',
                       file=text_file)
 
         return bleu1 / 1000, bleu2 / 1000, bleu3 / 1000, bleu4 / 1000
