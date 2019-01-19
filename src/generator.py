@@ -1,3 +1,5 @@
+import pickle
+
 import numpy as np
 from keras.preprocessing import sequence
 
@@ -33,6 +35,9 @@ class Flickr8kGenerator(Generator):
         self.ip = ImagePreprocessor(image_augmentation=False)
         self.cp = CaptionsPreprocessor(captions=self.train_captions + self.validation_captions)
         self._reset()
+
+        with open('models/tokenizer_' + language + '.pickle', 'wb') as handle:
+            pickle.dump(self.cp.tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     def train_generator(self):
         yield from self._batch_generator(self.train_filenames, self.train_captions)

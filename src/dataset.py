@@ -59,21 +59,13 @@ class Flickr8kDataset(Dataset):
                 DatasetKeys.CAPTION_TOKEN_FILE_INDONESIA]
         with open(caption_filename, 'r') as file:
             for row in file.read().split('\n')[:-1]:
-                # try:
                 row = row.split('\t')
                 file_name = row[0].split('#')[0]
                 if file_name in self.captions:
                     self.captions[file_name].append(row[1])
                 else:
                     self.captions[file_name] = [row[1]]
-                # # for indonesian caption
-                # except IndexError:
-                #     row = row[0].split('#')
-                #     file_name = row[0][:-1]
-                #     if file_name in self.captions:
-                #         self.captions[file_name].append(row[1][3:-1])
-                #     else:
-                #         self.captions[file_name] = [row[1][3:-1]]
+            print(self.captions)
 
     def get_train_dataset(self):
         train_filename_dataset = []

@@ -50,7 +50,7 @@ class TrainInceptionV3GRU(Train):
             self.model.load_weights(existing_model_path)
 
     def run(self):
-        callback = Callback('InceptionV3GRU')
+        callback = Callback('InceptionV3GRU', language=self.language)
 
         self.model.fit_generator(
             generator=self._train_generator,
