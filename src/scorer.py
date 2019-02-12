@@ -78,4 +78,6 @@ class CiderScore(Score):
 
 if __name__ == '__main__':
     bs = BleuScore()
-    print(bs.get_model_score(save_score_to_file=True, weight_path='models/InceptionV3GRU.weights.09-1.32.hdf5'))
+    print(
+        bs.get_model_score(save_score_to_file=True, weight_path='models/InceptionV3GRU.weights.13-1.32_indonesia.hdf5',
+                           language="indonesia"))

@@ -121,8 +121,6 @@ class InceptionV3GRUPredict(Predict):
         pred_word = ''
         pred_token = []
         while pred_word != '<end>' and count_tokens < max_words:
-            predicted_caption += " " + pred_word
-
             decoder_input[0, count_tokens] = token_int
             x_data = {'input_1': image_batch,
                       'decoder_input': decoder_input}
@@ -134,6 +132,7 @@ class InceptionV3GRUPredict(Predict):
 
             pred_token.append(token_int)
             pred_word = word_dict[token_int]
+            predicted_caption += pred_word + " "
 
             count_tokens += 1
 

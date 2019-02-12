@@ -16,7 +16,7 @@ class CaptionsPreprocessor(Preprocessor):
     def __init__(self,
                  captions,
                  num_words=10000,
-                 filters=Tokenizer().filters.replace("<", "").replace(">", "")):
+                 filters=Tokenizer().filters.replace("<", "").replace(">", "").replace("-", "")):
         super().__init__()
         self.tokenizer = Tokenizer(num_words=num_words, filters=filters)
         self.captions = self.mark_captions(captions)

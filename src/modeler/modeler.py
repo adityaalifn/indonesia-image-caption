@@ -76,7 +76,7 @@ class ImageCaptionModeler(Modeler):
         decoder_target = tf.placeholder(dtype='int32', shape=(None, None))
         optimizer = Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=1e-08, decay=0.0)
         decoder_model.compile(
-            optimizer=optimizer,
+            optimizer='rmsprop',
             loss=self.sparse_cross_entropy,
             # metrics=[self.bleu_score_metric],
             target_tensors=[decoder_target])

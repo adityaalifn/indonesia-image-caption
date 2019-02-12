@@ -82,16 +82,19 @@ class Flickr8kSingleWordGenerator(Generator):
     def __init__(self,
                  config=CONFS,
                  dataset=Flickr8kSingleWordDataset(),
-                 shuffle=True):
+                 shuffle=True, language="english"):
         self._config = config
         self._batch_size = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.BATCH_SIZE]
-        self.dataset = dataset
+        self.dataset = Flickr8kSingleWordDataset(language=language)
         self.shuffle = shuffle
         self.dataset.build()
         self.tokenizer = self.dataset.get_tokenizer()
         self.vocab_size = len(self.tokenizer.word_counts)
         self._reset()
         super().__init__(config)
+
+        with open('models/tokenizer_' + language + '.pickle', 'wb') as handle:
+            pickle.dump(self.tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     def train_generator(self):
         self._reset()

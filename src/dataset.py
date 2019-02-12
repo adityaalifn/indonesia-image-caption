@@ -96,19 +96,24 @@ class Flickr8kDataset(Dataset):
 
 
 class Flickr8kSingleWordDataset(Dataset):
-    def __init__(self):
+    def __init__(self, language="english"):
         self._dictionary = {}
         self._dictionary_marks = {}
         super().__init__()
+        self.language = language
 
     def build(self):
         self._create_dataset()
         self._build_tokenizer()
 
     def _create_dataset(self):
-        with file_io.FileIO(
-                self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.CAPTION_TOKEN_FILE_ENGLISH],
-                'r') as file:
+        caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][
+            DatasetKeys.CAPTION_TOKEN_FILE_ENGLISH]
+        if self.language == "indonesia":
+            caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][
+                DatasetKeys.CAPTION_TOKEN_FILE_INDONESIA]
+
+        with file_io.FileIO(caption_filename, 'r') as file:
             captions = file.read().strip().split('\n')
 
         _start_mark = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.START_MARK]

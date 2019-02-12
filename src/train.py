@@ -79,7 +79,9 @@ class TrainInceptionV3GRU(Train):
 
 
 class ImageCaptionSingleWordTrain(Train):
-    def __init__(self, existing_model_path=''):
+    def __init__(self, existing_model_path='', language="english", score_model=True):
+        self.language = language
+        self.score_model = score_model
         self._generator = Flickr8kSingleWordGenerator()
         self._tokenizer = self._generator.tokenizer
         self._train_generator = self._generator.train_generator()
@@ -92,7 +94,8 @@ class ImageCaptionSingleWordTrain(Train):
             self.model.load_weights(existing_model_path)
 
     def run(self):
-        callback = Callback('ImageCaptionSingleWord')
+        callback = Callback('ImageCaptionSingleWord', language=self.language)
+
         self.model.fit_generator(generator=self._train_generator,
                                  steps_per_epoch=6000 * 5 * 13 // self._batch_size,
                                  epochs=20,
@@ -100,10 +103,21 @@ class ImageCaptionSingleWordTrain(Train):
                                  validation_steps=16,
                                  callbacks=callback.callbacks)
 
-        self.model.save('models/ImageCaptionSingleWord_model.h5')
-        self.model.save_weights('models/ImageCaptionSingleWord_weights.h5')
-        self.save_tokenizer('models/tokenizerSingleWord.pickle')
+        cur_time = datetime.datetime.now()
+        model_path = 'models/ImageCaptionSingleWord_model_' + str(cur_time) + '_' + self.language + "_" + \
+                     self.model.layers[-2].name + '.h5'
+        model_weight_path = 'models/ImageCaptionSingleWord_weight_' + str(cur_time) + '_' + self.language + "_" + \
+                            self.model.layers[-2].name + '.h5'
+        self.model.save(model_path)
+        self.model.save_weights(model_weight_path)
+        self.save_tokenizer('models/tokenizer_' + self.language + '.pickle')
+
+        # Save model for serving
         self._serving.save_model(self.model)
+
+        if self.score_model:
+            bs = BleuScore()
+            bs.get_model_score(weight_path=model_weight_path, language=self.language)
 
 
 if __name__ == '__main__':
@@ -120,5 +134,5 @@ if __name__ == '__main__':
         train = TrainInceptionV3GRU(language=args.language, score_model=True)
         train.run()
     elif args.model == 2:
-        train = ImageCaptionSingleWordTrain()
+        train = ImageCaptionSingleWordTrain(language=args.language, score_model=True)
         train.run()
