@@ -10,7 +10,7 @@ from src.constant import DatasetKeys
 class Dataset(object):
     def __init__(self, config=CONFS):
         self._config = config
-        self.tokenizer = Tokenizer(filters='!"#$%&()*+,./:;=?@[\]^_`{|}~ ')
+        self.tokenizer = Tokenizer(filters='!"#$%&()*+./:;=?@[\]^_`{|}~ ')
 
     def build(self):
         pass
