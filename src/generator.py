@@ -139,10 +139,11 @@ class Flickr8kSingleWordGenerator(Generator):
                 self.next_word.append(one_hot_numpy_array)
                 self.images.append(current_image)
                 if self.count >= self._batch_size:
-                    self.partial_captions = sequence.pad_sequences(self.partial_captions, maxlen=40, padding='post')
+                    self.partial_captions_sequence = sequence.pad_sequences(self.partial_captions, maxlen=40,
+                                                                            padding='post')
                     indices = list(range(len(self.next_word)))
                     indices = shuffle_array(indices) if self.shuffle else indices
-                    yield [[np.array(self.images)[indices], self.partial_captions[indices]],
+                    yield [[np.array(self.images)[indices], self.partial_captions_sequence[indices]],
                            np.array(self.next_word)[indices]]
                     # print([[np.array(self.images)[indices], self.partial_captions[indices]],
                     #        np.array(self.next_word)[indices]])
