@@ -2,10 +2,12 @@ import argparse
 import datetime
 import os
 import pickle
+import sys
 
 from src.config import CONFS
 from src.constant import DatasetKeys
 from src.generator import Flickr8kGenerator, Flickr8kSingleWordGenerator
+from src.logger import CustomLogger
 from src.modeler.callback import Callback
 from src.modeler.modeler import ImageCaptionModeler, ImageCaptionGruModeler
 from src.scorer import BleuScore
@@ -114,8 +116,9 @@ class ImageCaptionSingleWordTrain(Train):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='image-caption Train', formatter_class=argparse.RawTextHelpFormatter)
+    sys.stdout = CustomLogger()
 
+    parser = argparse.ArgumentParser(description='image-caption Train', formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument('-m', '--model', type=int, default=1, help='model choice:\n'
                                                                    '1: train image caption sentence modeler\n'
                                                                    '2: train image caption single word modeler')
