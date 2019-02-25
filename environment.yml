@@ -2,17 +2,17 @@ name: image-caption
 
 dependencies:
   - python=3.6
-  - pip=9.0.1
+  - pip=19.0.1
   - pip:
-    - tensorflow==1.8.0
-    - h5py==2.7.1
-    - keras==2.1.6
+      - tensorflow
+      - h5py
+      - keras
     - jupyter
-    - pillow==5.1.0
+      - pillow
     - matplotlib
     - nltk
     - opencv-python
     - flask
     - requests
-    - tensorflow-serving-api-python3
+      - tensorflow-serving-api
     - docker

@@ -3,8 +3,6 @@ import datetime
 import os
 import pickle
 
-from numpy.random import seed
-
 from src.config import CONFS
 from src.constant import DatasetKeys
 from src.generator import Flickr8kGenerator, Flickr8kSingleWordGenerator
@@ -12,11 +10,6 @@ from src.modeler.callback import Callback
 from src.modeler.modeler import ImageCaptionModeler, ImageCaptionGruModeler
 from src.scorer import BleuScore
 from src.serving import KerasServing
-
-seed(1)
-from tensorflow import set_random_seed
-
-set_random_seed(2)
 
 
 class Train(object):
@@ -82,7 +75,7 @@ class ImageCaptionSingleWordTrain(Train):
     def __init__(self, existing_model_path='', language="english", score_model=True):
         self.language = language
         self.score_model = score_model
-        self._generator = Flickr8kSingleWordGenerator()
+        self._generator = Flickr8kSingleWordGenerator(language=language)
         self._tokenizer = self._generator.tokenizer
         self._train_generator = self._generator.train_generator()
         self._validation_generator = self._generator.validation_generator()

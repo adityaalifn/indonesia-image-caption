@@ -80,9 +80,7 @@ class Flickr8kGenerator(Generator):
 
 class Flickr8kSingleWordGenerator(Generator):
     def __init__(self,
-                 config=CONFS,
-                 dataset=Flickr8kSingleWordDataset(),
-                 shuffle=True, language="english"):
+                 config=CONFS, shuffle=True, language="english"):
         self._config = config
         self._batch_size = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.BATCH_SIZE]
         self.dataset = Flickr8kSingleWordDataset(language=language)
@@ -93,7 +91,7 @@ class Flickr8kSingleWordGenerator(Generator):
         self._reset()
         super().__init__(config)
 
-        with open('models/tokenizer_' + language + '.pickle', 'wb') as handle:
+        with open('models/tokenizer_sw_' + language + '.pickle', 'wb') as handle:
             pickle.dump(self.tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     def train_generator(self):
@@ -146,6 +144,8 @@ class Flickr8kSingleWordGenerator(Generator):
                     indices = shuffle_array(indices) if self.shuffle else indices
                     yield [[np.array(self.images)[indices], self.partial_captions[indices]],
                            np.array(self.next_word)[indices]]
+                    # print([[np.array(self.images)[indices], self.partial_captions[indices]],
+                    #        np.array(self.next_word)[indices]])
                     self._reset()
 
     def _reset(self):
