@@ -137,7 +137,7 @@
 103205630_682ca7285b.jpg#1	Dua pria akan memasuki tenda pemancingan es di danau yang tertutup salju .
 103205630_682ca7285b.jpg#2	Dua laki-laki mendirikan gubuk memancing es berwarna biru di atas es di danau .
 103205630_682ca7285b.jpg#3	Dua pria , berdiri di atas es , melihat ke sesuatu yang ditutupi terpal biru .
-103205630_682ca7285b.jpg#4	Dua orang berdiri di luar struktur tenda biru di permukaan bersalju .
+103205630_682ca7285b.jpg#4	Dua orang berdiri di luar bangunan tenda biru di permukaan bersalju .
 1032122270_ea6f0beedb.jpg#0	Seorang wanita berjongkok di dekat tiga anjing di ladang .
 1032122270_ea6f0beedb.jpg#1	Tiga anjing bermain di bukit berumput dengan langit biru .
 1032122270_ea6f0beedb.jpg#2	Tiga anjing berdiri di rumput dan seseorang duduk di sebelah mereka .
@@ -825,7 +825,7 @@
 1187435567_18173c148b.jpg#4	Seekor anjing kecil bermain dengan mainan di atas selimut .
 1187593464_ce862352c6.jpg#0	Seekor anjing cokelat besar berlari di rumput dengan tongkat besar di mulutnya .
 1187593464_ce862352c6.jpg#1	Seekor anjing berlari melintasi lapangan berumput dengan tongkat di mulutnya .
-1187593464_ce862352c6.jpg#2	Seekor anjing berlari dengan tongkat di mulutnya
+1187593464_ce862352c6.jpg#2	Seekor anjing berlari dengan tongkat di mulutnya .
 1187593464_ce862352c6.jpg#3	Seekor anjing berlari ke arah kamera dengan tongkat di mulutnya .
 1187593464_ce862352c6.jpg#4	Anjing itu membawa tongkat panjang di mulutnya .
 1189977786_4f5aaed773.jpg#0	Seekor anjing melompat ke kolam renang .
@@ -840,22 +840,22 @@
 1191338263_a4fa073154.jpg#4	Seorang wanita dengan payung sedang duduk di stasiun , dengan iklan Aquos di dinding .
 1193116658_c0161c35b5.jpg#0	Seorang gadis mengendarai sepatu roda sementara yang lain mengendarai skuter di sebelahnya .
 1193116658_c0161c35b5.jpg#1	Seorang gadis mengendarai sepatu roda dengan seorang anak yang mengendarai skuter .
-1193116658_c0161c35b5.jpg#2	Seorang gadis muda mengendarai unicycle di sebelah yang lain mengendarai skuter di jalan yang sibuk .
-1193116658_c0161c35b5.jpg#3	Gadis di unicycle mengulurkan tangan untuk anak dengan skuter .
-1193116658_c0161c35b5.jpg#4	Ada seorang gadis di unicycle dan seorang anak di skuter .
+1193116658_c0161c35b5.jpg#2	Seorang gadis muda mengendarai sepeda roda satu di sebelah yang lain mengendarai skuter di jalan yang sibuk .
+1193116658_c0161c35b5.jpg#3	Gadis di sepeda roda satu mengulurkan tangan untuk anak dengan skuter .
+1193116658_c0161c35b5.jpg#4	Ada seorang gadis di sepeda roda satu dan seorang anak di skuter .
 119534510_d52b3781a3.jpg#0	Seorang lelaki berjas cokelat duduk di dermaga dan membaca .
-119534510_d52b3781a3.jpg#1	Seorang pria duduk di sebelah air , membaca .
-119534510_d52b3781a3.jpg#2	Seorang pria membaca buku di dok dekat pos .
+119534510_d52b3781a3.jpg#1	Seorang pria sedang membaca dan duduk di sebelah air .
+119534510_d52b3781a3.jpg#2	Seorang pria membaca buku di dermaga dekat pos .
 119534510_d52b3781a3.jpg#3	Seseorang yang mengenakan jaket cokelat sedang duduk di dermaga dekat air .
-119534510_d52b3781a3.jpg#4	Seseorang yang duduk di atas pendaratan beton di sebelah badan air
-1197800988_7fb0ca4888.jpg#0	seseorang duduk di meja di belakang pohon .
+119534510_d52b3781a3.jpg#4	Seseorang yang duduk di dermaga di dekat air .
+1197800988_7fb0ca4888.jpg#0	Seseorang duduk di meja di belakang pohon .
 1197800988_7fb0ca4888.jpg#1	Seseorang yang mengenakan jaket ungu berdiri di belakang pohon tinggi .
 1197800988_7fb0ca4888.jpg#2	Seorang wanita berjaket ungu sedang makan makanan ringan di meja di belakang pohon .
 1197800988_7fb0ca4888.jpg#3	Seorang wanita duduk di meja piknik makan dengan barang bawaan .
 1197800988_7fb0ca4888.jpg#4	Orang makan di bawah pohon hijau .
-1198194316_543cc7b945.jpg#0	pasangan berjalan di trotoar
+1198194316_543cc7b945.jpg#0	Pasangan berjalan di trotoar .
 1198194316_543cc7b945.jpg#1	Seorang pria dan wanita berjalan di luar .
-1198194316_543cc7b945.jpg#2	Seorang pria dan wanita berdiri di depan tempat minuman
+1198194316_543cc7b945.jpg#2	Seorang pria dan wanita berdiri di depan tempat minuman .
 1198194316_543cc7b945.jpg#3	Seorang lelaki berjas hitam dan celana jins berjalan di samping seorang wanita berjas hitam dan kemeja berbunga-bunga di depan tempat penyegaran dengan yang lain berjalan di dekatnya .
 1198194316_543cc7b945.jpg#4	Seorang wanita dengan kemeja dan dompet bunga dan seorang pria dengan kemeja hitam sedang berjalan sementara pria lain berjalan di belakang mereka .
 1204996216_71d7519d9a.jpg#0	Seorang anak laki-laki berbaring di bangku meja piknik .
@@ -864,14 +864,14 @@
 1204996216_71d7519d9a.jpg#3	Seorang anak laki-laki dengan baju merah duduk di bangku meja piknik dari kayu .
 1204996216_71d7519d9a.jpg#4	Seorang anak lelaki berbaring di bangku meja piknik .
 1206506157_c7956accd5.jpg#0	Anjing berkelahi di atas rumput karena mainan .
-1206506157_c7956accd5.jpg#1	Di rumput , dua anjing cokelat bergumul untuk mainan oranye .
+1206506157_c7956accd5.jpg#1	Dua anjing cokelat bergumul untuk mainan oranye di rumput .
 1206506157_c7956accd5.jpg#2	Dua anjing bermain kasar di padang rumput hijau .
 1206506157_c7956accd5.jpg#3	Dua anjing bermain dengan mainan oranye di rumput tinggi .
 1206506157_c7956accd5.jpg#4	Dua anjing cokelat besar bermain di rumput .
-1207159468_425b902bfb.jpg#0	Seorang anak laki-laki dan seseorang tergantung di atas struktur kubah .
-1207159468_425b902bfb.jpg#1	Seorang anak laki-laki dengan kemeja biru sedang berpose di depan sebuah bangunan tipe igloo dengan seseorang menggantung dari tali di atas gedung .
+1207159468_425b902bfb.jpg#0	Seorang anak laki-laki dan seseorang tergantung di atas bangunan kubah .
+1207159468_425b902bfb.jpg#1	Seorang anak laki-laki dengan kemeja biru sedang berpose di depan sebuah bangunan kubah dengan seseorang menggantung dari tali di atas gedung .
 1207159468_425b902bfb.jpg#2	Seorang anak laki-laki berpose untuk sebuah gambar dan di latar belakang seorang pria digantung dengan seutas tali .
-1207159468_425b902bfb.jpg#3	Seorang anak laki-laki berdiri di dekat struktur di luar .
+1207159468_425b902bfb.jpg#3	Seorang anak laki-laki berdiri di dekat bangunan di luar .
 1207159468_425b902bfb.jpg#4	seorang pria muda mengenakan kemeja biru dengan bangunan putih yang aneh di latar belakang
 1211015912_9f3ee3a995.jpg#0	Seorang gadis berpakaian cokelat dikelilingi oleh anak-anak menutup matanya .
 1211015912_9f3ee3a995.jpg#1	Seorang gadis dalam gaun kuning dengan matahari bersinar di wajahnya
@@ -1173,7 +1173,7 @@
 1277185009_06478dd457.jpg#2	Seorang lelaki bertelanjang dada berjalan di atas bukit berbatu
 1277185009_06478dd457.jpg#3	Pria bertelanjang dada dengan ransel .
 1277185009_06478dd457.jpg#4	Seseorang yang bertelanjang dada dengan tas punggung diperlihatkan di atas tumpukan batu dengan latar belakang mendung .
-1277743944_f4e8c78403.jpg#0	Seorang anak laki-laki mengenakan celana pendek khaki dan kemeja merah berjalan di pantai dengan struktur hijau , putih dan biru dan setengah bulan di belakangnya .
+1277743944_f4e8c78403.jpg#0	Seorang anak laki-laki mengenakan celana pendek khaki dan kemeja merah berjalan di pantai dengan bangunan hijau , putih dan biru dan setengah bulan di belakangnya .
 1277743944_f4e8c78403.jpg#1	Seorang anak laki-laki dengan sweter merah berlari di pantai
 1277743944_f4e8c78403.jpg#2	Seorang anak laki-laki mengenakan kemeja merah berlari di sepanjang pantai .
 1277743944_f4e8c78403.jpg#3	Seorang anak laki-laki yang mengenakan sweter merah berlari di sepanjang pantai yang penuh warna .
@@ -1773,8 +1773,9 @@
 1368338041_6b4077ca98.jpg#2	Tiga anjing kecil mengendus sesuatu .
 1368338041_6b4077ca98.jpg#3	Tiga anjing kecil , dua putih dan satu hitam dan putih , di trotoar .
 1368338041_6b4077ca98.jpg#4	Dua anjing putih melihat seekor anjing hitam di jalan beraspal .
-1368383637_614646cc4a.jpg#0	Orang-orang berdiri di koridor memandang dari balkon ketika orang lain berjalan-jalan dengan anjing
-1368383637_614646cc4a.jpg#1	Orang-orang berdiri di dalam struktur berjendela .
+1368383637_614646cc4a.jpg#0	Orang-orang berdiri di koridor memandang dari balkon ket
+ika orang lain berjalan-jalan dengan anjing
+1368383637_614646cc4a.jpg#1	Orang-orang berdiri di dalam bangunan berjendela .
 1368383637_614646cc4a.jpg#2	Tiga orang dan seekor anjing hitam putih di koridor industri yang cerah .
 1368383637_614646cc4a.jpg#3	Tiga orang menikmati pemandangan di sebuah bangunan modern .
 1368383637_614646cc4a.jpg#4	Dua orang melihat ke dinding teras .
@@ -1808,7 +1809,7 @@
 1379026456_153fd8b51b.jpg#2	Seorang pria muda duduk di meja dengan laptop dan earphone .
 1379026456_153fd8b51b.jpg#3	Seorang pria muda dengan headphone melihat komputer laptop Macintosh .
 1379026456_153fd8b51b.jpg#4	Pria duduk dengan headphone di laptop .
-1383698008_8ac53ed7ec.jpg#0	Seorang pria sedang snowboarding di atas struktur di bukit bersalju .
+1383698008_8ac53ed7ec.jpg#0	Seorang pria sedang snowboarding di atas bangunan di bukit bersalju .
 1383698008_8ac53ed7ec.jpg#1	Seorang peselancar salju melompat di udara di atas bukit bersalju
 1383698008_8ac53ed7ec.jpg#2	seorang peselancar salju mengenakan celana hijau melakukan trik di bangku tinggi
 1383698008_8ac53ed7ec.jpg#3	Seseorang dengan celana kuning sedang berjalan di atas salju .
@@ -2198,7 +2199,7 @@
 1426014905_da60d72957.jpg#2	Seorang pria berdiri dan membaca sesuatu dengan pagar yang menghadap ke kota .
 1426014905_da60d72957.jpg#3	Seorang pria berdiri di ujung dermaga membaca buku di hadapan langit biru .
 1426014905_da60d72957.jpg#4	Manusia berdiri di sebelah pagar dengan awan indah di latar belakang .
-1427391496_ea512cbe7f.jpg#0	Seorang anak dengan kemeja hitam berdiri di atas dok kayu di dekat meja piknik .
+1427391496_ea512cbe7f.jpg#0	Seorang anak dengan kemeja hitam berdiri di atas dermaga kayu di dekat meja piknik .
 1427391496_ea512cbe7f.jpg#1	Seorang anak lelaki kecil sedang tersenyum untuk kamera di taman bermain
 1427391496_ea512cbe7f.jpg#2	Seorang anak laki-laki memegang pegangan biru di dermaga .
 1427391496_ea512cbe7f.jpg#3	Seorang anak kecil berdiri di dermaga kayu di sebelah air .
@@ -3460,7 +3461,7 @@
 1752454466_723790dbd6.jpg#4	Anjing ini selesai berlari di papan kuning .
 1763020597_d4cc8f0f8a.jpg#0	orang duduk di dinding
 1763020597_d4cc8f0f8a.jpg#1	Sekelompok orang duduk di bawah naungan tenda semen .
-1763020597_d4cc8f0f8a.jpg#2	Sekelompok orang duduk di bawah struktur beton yang menghadap ke tangga .
+1763020597_d4cc8f0f8a.jpg#2	Sekelompok orang duduk di bawah bangunan beton yang menghadap ke tangga .
 1763020597_d4cc8f0f8a.jpg#3	Lima orang dewasa duduk di tangga batu .
 1763020597_d4cc8f0f8a.jpg#4	Beberapa orang duduk di bawah gantung di atas tangga batu .
 1764955991_5e53a28c87.jpg#0	Seekor anjing cokelat dan putih berlari di jalan di musim gugur .
@@ -3870,7 +3871,7 @@
 189721896_1ffe76d89e.jpg#4	Pendaki berbaju merah memimpin pendaki menaiki wajah batu yang panjang .
 189740668_0b045f1ff2.jpg#0	Seorang anak laki-laki melakukan jungkir balik di atas batu .
 189740668_0b045f1ff2.jpg#1	seorang pria memanjat batu besar .
-189740668_0b045f1ff2.jpg#2	Seorang lelaki memanjat struktur yang curam .
+189740668_0b045f1ff2.jpg#2	Seorang lelaki memanjat bangunan yang curam .
 189740668_0b045f1ff2.jpg#3	Seorang lelaki memanjat wajah tebing tanpa peralatan keamanan .
 189740668_0b045f1ff2.jpg#4	Seorang pria bertelanjang dada memanjat lereng gunung .
 1904112245_549e47c8aa.jpg#0	Seekor anjing di hutan .
@@ -4282,7 +4283,7 @@
 2046222127_a6f300e202.jpg#1	seorang pria dengan rompi kuning neon membawa peti kayu
 2046222127_a6f300e202.jpg#2	Seorang pria di peralatan konstruksi sedang memindahkan papan kayu besar ke tujuan baru .
 2046222127_a6f300e202.jpg#3	Seorang pria mengenakan hi-viz kuning sedang memegang papan kayu .
-2046222127_a6f300e202.jpg#4	Pria berambut pendek menggerakkan struktur kayu .
+2046222127_a6f300e202.jpg#4	Pria berambut pendek menggerakkan bangunan kayu .
 2046778775_0dd7cac6ab.jpg#0	Sekelompok anak berbaris untuk pertunjukan di atas panggung .
 2046778775_0dd7cac6ab.jpg#1	Sekelompok anak perempuan dan laki-laki berlatih bersama di panggung sekolah sementara beberapa orang dewasa dan anak-anak menonton .
 2046778775_0dd7cac6ab.jpg#2	Sekelompok anak-anak berdiri di atas panggung di depan penonton yang siap tampil .
@@ -4979,7 +4980,7 @@
 2097407245_c798e0dcaf.jpg#3	Seorang pria sendirian dengan tinju di udara dengan latar belakang pegunungan berbatu yang besar
 2097407245_c798e0dcaf.jpg#4	Pria dengan tangan terentang berdiri di atas batu yang tertutup salju .
 2097420505_439f63c863.jpg#0	Seorang pejalan kaki pria mengenakan jaket hijau berpose di sebelah gletser besar .
-2097420505_439f63c863.jpg#1	Seorang pria dengan kamera dan struktur es di belakangnya .
+2097420505_439f63c863.jpg#1	Seorang pria dengan kamera dan bangunan es di belakangnya .
 2097420505_439f63c863.jpg#2	Seorang pria dengan kamera berjongkok di atas es .
 2097420505_439f63c863.jpg#3	Seorang pria dengan kamera berlutut di depan bukit salju raksasa .
 2097420505_439f63c863.jpg#4	Pendaki gunung bersiap untuk mengambil foto .
@@ -5673,7 +5674,7 @@
 2176147758_9a8deba576.jpg#2	Seorang pria di jalan berdiri dekat sepedanya .
 2176147758_9a8deba576.jpg#3	Seorang pria berdiri di samping sepedanya di jalan .
 2176147758_9a8deba576.jpg#4	Pria itu mengenakan jaket merah dan berdiri di sebelah sepeda .
-2176364472_31fcd37531.jpg#0	Seekor anjing cokelat berada di atas struktur segitiga .
+2176364472_31fcd37531.jpg#0	Seekor anjing cokelat berada di atas bangunan segitiga .
 2176364472_31fcd37531.jpg#1	Seekor anjing cokelat berlari menuruni lereng sementara seorang pria mengikuti di sampingnya .
 2176364472_31fcd37531.jpg#2	Seekor anjing lab cokelat berlari melewati rintangan di sebuah kursus .
 2176364472_31fcd37531.jpg#3	Anjing cokelat berlari menuruni jalan .
@@ -5712,7 +5713,7 @@
 2180356743_b3a3c9a7f6.jpg#1	Seorang anak laki-laki berdiri di latar depan menatap orang lain di pengadilan .
 2180356743_b3a3c9a7f6.jpg#2	Seorang anak laki-laki berdiri menghadap ke halaman sekolah tempat anak-anak lain bermain .
 2180356743_b3a3c9a7f6.jpg#3	Seorang anak lelaki memperhatikan teman-teman sekelasnya bermain di halaman , melihat dari atas .
-2180356743_b3a3c9a7f6.jpg#4	Seorang anak laki-laki sedang berdiri di atas sebuah struktur dan menyaksikan anak-anak lelaki lainnya memainkan permainan .
+2180356743_b3a3c9a7f6.jpg#4	Seorang anak laki-laki sedang berdiri di atas sebuah bangunan dan menyaksikan anak-anak lelaki lainnya memainkan permainan .
 2180480870_dcaf5ac0df.jpg#0	Seekor anjing cokelat akan melompat .
 2180480870_dcaf5ac0df.jpg#1	Seekor anjing berlari melalui rumput .
 2180480870_dcaf5ac0df.jpg#2	seekor anjing kecil berwarna cokelat berlari melintasi padang rumput
@@ -6525,7 +6526,7 @@
 2245914678_1f82fc3d80.jpg#4	Seorang wanita dengan rambut merah dan kemeja bergaris hitam berbicara di telepon .
 2245916742_73af13c733.jpg#0	seorang pria berwana hijau memegang kamera berdiri di antara dua patung kepala di pulau Paskah .
 2245916742_73af13c733.jpg#1	Seorang pria berdiri di antara patung-patung besar di lapangan .
-2245916742_73af13c733.jpg#2	Seorang pria berdiri di dekat dua struktur wajah di Pulau Paskah .
+2245916742_73af13c733.jpg#2	Seorang pria berdiri di dekat dua bangunan wajah di Pulau Paskah .
 2245916742_73af13c733.jpg#3	Seseorang berdiri di antara dua patung raksasa yang terlihat seperti wajah .
 2245916742_73af13c733.jpg#4	Seseorang berdiri di sebelah patung Pulau Paskah .
 2246717855_c0c08fe5d2.jpg#0	Kerumunan anak muda dengan pakaian musim dingin , menunggu kereta .
@@ -6829,10 +6830,10 @@
 2265367960_7928c5642f.jpg#3	Seorang anak laki-laki tersenyum dan memegang sandal .
 2265367960_7928c5642f.jpg#4	Bocah itu mengenakan topi dan memegang sandal .
 2266061169_dfbf8f0595.jpg#0	Seorang pria sedang berbaring di dalam sebuah perahu hitam yang tidak berfungsi .
-2266061169_dfbf8f0595.jpg#1	Seorang pria berbaring untuk beristirahat di dalam struktur kayu melawan sebuah bangunan .
+2266061169_dfbf8f0595.jpg#1	Seorang pria berbaring untuk beristirahat di dalam bangunan kayu melawan sebuah bangunan .
 2266061169_dfbf8f0595.jpg#2	Seorang pria tidur di bangku umum yang terlindung .
 2266061169_dfbf8f0595.jpg#3	Seorang lelaki tidur di lapisan perahu yang disandarkan ke dinding bata .
-2266061169_dfbf8f0595.jpg#4	Manusia berbaring di dalam struktur hitam di luar .
+2266061169_dfbf8f0595.jpg#4	Manusia berbaring di dalam bangunan hitam di luar .
 226607225_44d696db6b.jpg#0	Seekor ikan hijau melompat keluar dari air .
 226607225_44d696db6b.jpg#1	Seekor ikan besar melanggar permukaan air .
 226607225_44d696db6b.jpg#2	Seekor ikan hijau dan biru besar melompat dari air .
@@ -7503,7 +7504,7 @@
 2308108566_2cba6bca53.jpg#2	Seseorang mengendarai sepeda motor di sepanjang jalan berlumpur .
 2308108566_2cba6bca53.jpg#3	Pengendara sepeda motor mengendarai lereng .
 2308108566_2cba6bca53.jpg#4	Seseorang mengendarai sepeda motor trail menuruni bukit tanah .
-2308256827_3c0a7d514d.jpg#0	Seorang anak laki-laki berjalan melintasi struktur tali di taman bermain .
+2308256827_3c0a7d514d.jpg#0	Seorang anak laki-laki berjalan melintasi bangunan tali di taman bermain .
 2308256827_3c0a7d514d.jpg#1	Seorang anak di baju hijau menyeimbangkan tali merah sambil memegang dua tali putih .
 2308256827_3c0a7d514d.jpg#2	Taman bermain dengan dua anak dan dewasa .
 2308256827_3c0a7d514d.jpg#3	Seorang anak lelaki kecil mengenakan kacamata berdiri di atas tali dan memegang dua tali dengan tangannya .
@@ -7743,10 +7744,10 @@
 2328104318_5a43ca170c.jpg#2	Seorang pria mengenakan kaus biru berdiri di luar dan menulis di buku catatan .
 2328104318_5a43ca170c.jpg#3	Seorang pria yang mengenakan kacamata sedang menggambar .
 2328104318_5a43ca170c.jpg#4	Seorang pria menuliskan sesuatu di balik semak .
-2328106090_b7c2725501.jpg#0	Seorang pria mengendarai unicycle .
-2328106090_b7c2725501.jpg#1	Seorang pria mengendarai unicycle di trotoar .
+2328106090_b7c2725501.jpg#0	Seorang pria mengendarai sepeda roda satu .
+2328106090_b7c2725501.jpg#1	Seorang pria mengendarai sepeda roda satu di trotoar .
 2328106090_b7c2725501.jpg#2	seorang pria yang mengenakan wahana hitam mengendarai sepatu roda .
-2328106090_b7c2725501.jpg#3	Seorang pria muda mengendarai unicycle di trotoar .
+2328106090_b7c2725501.jpg#3	Seorang pria muda mengendarai sepeda roda satu di trotoar .
 2328106090_b7c2725501.jpg#4	Bocah remaja mengendarai sepatu roda melalui taman berumput .
 2328616978_fb21be2b87.jpg#0	seorang wanita mengenakan gaun hitam membawa salib putih
 2328616978_fb21be2b87.jpg#1	Seorang wanita dengan topi koboi dan memegang salib memandang beberapa pria di bangku .
@@ -8654,13 +8655,13 @@
 2402793046_3385554e81.jpg#3	Seorang anak kecil memanjat tali yang tergantung di dekat tiang besar .
 2402793046_3385554e81.jpg#4	Anak laki-laki itu sedang menaiki tangga tali .
 2403078014_4b1d6f8bde.jpg#0	Seorang anak laki-laki mengendarai sepatu roda di taman .
-2403078014_4b1d6f8bde.jpg#1	Seseorang mengendarai unicycle di sekitar kerucut oranye .
-2403078014_4b1d6f8bde.jpg#2	Seseorang mengendarai unicycle besar .
-2403078014_4b1d6f8bde.jpg#3	Pengendara unicycle di latar depan dengan pengendara sepeda lain di latar belakang .
-2403078014_4b1d6f8bde.jpg#4	Seorang anak muda yang memakai helm mengendarai unicycle .
+2403078014_4b1d6f8bde.jpg#1	Seseorang mengendarai sepeda roda satu di sekitar kerucut oranye .
+2403078014_4b1d6f8bde.jpg#2	Seseorang mengendarai sepeda roda satu besar .
+2403078014_4b1d6f8bde.jpg#3	Pengendara sepeda roda satu di latar depan dengan pengendara sepeda lain di latar belakang .
+2403078014_4b1d6f8bde.jpg#4	Seorang anak muda yang memakai helm mengendarai sepeda roda satu .
 2403376030_903521c371.jpg#0	Seekor anjing dan pemiliknya berlari .
 2403376030_903521c371.jpg#1	Seorang wanita dengan kaus hitam berkerudung berjalan dengan seekor anjing besar .
-2403376030_903521c371.jpg#2	Seorang wanita dengan kaus hitam berjalan di atas dok dengan seekor anjing basah .
+2403376030_903521c371.jpg#2	Seorang wanita dengan kaus hitam berjalan di atas dermaga dengan seekor anjing basah .
 2403376030_903521c371.jpg#3	Seorang wanita menuntun seekor anjing menyusuri jalan kayu .
 2403376030_903521c371.jpg#4	Gadis dengan kaus hitam keluar dengan seekor anjing besar berwarna cokelat .
 2403544744_cba152f5c1.jpg#0	Seekor anjing berjalan dengan dua sapi .
@@ -9288,7 +9289,7 @@
 2426828433_ce894d1c54.jpg#2	Tiga anjing hitam bermain di rumput .
 2426828433_ce894d1c54.jpg#3	tiga anjing berlari melalui rumput .
 2426828433_ce894d1c54.jpg#4	Tiga anjing hitam besar sedang bermain di rumput .
-2427490900_5b7a8874b9.jpg#0	Sekelompok orang duduk di kedua sisi struktur batu merah .
+2427490900_5b7a8874b9.jpg#0	Sekelompok orang duduk di kedua sisi bangunan batu merah .
 2427490900_5b7a8874b9.jpg#1	sekelompok orang duduk di tanah di luar sebuah monumen .
 2427490900_5b7a8874b9.jpg#2	Sekelompok orang duduk bersama di dekat tangga sebuah monumen .
 2427490900_5b7a8874b9.jpg#3	Banyak orang duduk di dasar lengkungan marmer besar yang terukir nama .
@@ -9388,7 +9389,7 @@
 2432709509_2a4d0c833f.jpg#2	Seorang anak laki-laki muda duduk di ladang dengan pipa pembuangan di latar belakang .
 2432709509_2a4d0c833f.jpg#3	Bayi dengan menangis selokan mengalir
 2432709509_2a4d0c833f.jpg#4	Anak kecil itu duduk di rumput di taman .
-2433175169_da939372f2.jpg#0	Seorang lelaki berdiri di atas struktur batu dengan kedua lengannya seperti burung .
+2433175169_da939372f2.jpg#0	Seorang lelaki berdiri di atas bangunan batu dengan kedua lengannya seperti burung .
 2433175169_da939372f2.jpg#1	seorang lelaki berdiri di atas panggung beton dengan tangan terbuka lebar
 2433175169_da939372f2.jpg#2	Pria berdiri di atas batu dengan tangan terentang .
 2433175169_da939372f2.jpg#3	Pria dengan tangan terentang berdiri di atas pijakan batu
@@ -10128,7 +10129,7 @@
 247617754_4b1137de8c.jpg#2	Seorang wanita dengan ransel melihat ponselnya sambil duduk di dinding beton pendek .
 247617754_4b1137de8c.jpg#3	Orang muda itu meninjau fotonya sambil duduk di bangku .
 247617754_4b1137de8c.jpg#4	Wanita duduk dan melihat telepon , dengan ransel hitam .
-247618600_239eeac405.jpg#0	Seorang gadis meletakkan kain ungu di wajahnya sementara dia berbaring di atas struktur kayu .
+247618600_239eeac405.jpg#0	Seorang gadis meletakkan kain ungu di wajahnya sementara dia berbaring di atas bangunan kayu .
 247618600_239eeac405.jpg#1	Seorang gadis sedang berjemur dengan handuk ungu di wajahnya .
 247618600_239eeac405.jpg#2	Seorang gadis berbaring di geladak kayu dengan sepotong pakaian menutupi wajahnya .
 247618600_239eeac405.jpg#3	Seorang wanita muda sedang berbaring di bawah sinar matahari dengan wajahnya ditutupi syal ungu .
@@ -11268,7 +11269,7 @@
 2554531876_5d7f193992.jpg#2	Pengendara sepeda motor berbelok .
 2554531876_5d7f193992.jpg#3	Seseorang yang mengendarai sepeda motor condong ke belokan .
 2554531876_5d7f193992.jpg#4	Ada pengendara sepeda motor profesional berbelok di tikungan .
-2554570943_122da6438f.jpg#0	Seorang anak memanjat bagian dalam tabung merah dalam struktur permainan .
+2554570943_122da6438f.jpg#0	Seorang anak memanjat bagian dalam tabung merah dalam terowongan permainan .
 2554570943_122da6438f.jpg#1	Seorang anak dengan kemeja kuning dan celana jeans biru memanjat melalui terowongan taman bermain merah .
 2554570943_122da6438f.jpg#2	Seorang gadis memanjat melalui terowongan plastik merah di taman bermain .
 2554570943_122da6438f.jpg#3	seorang gadis memanjat slide merah .
@@ -12935,7 +12936,7 @@
 2663248626_f000f2661d.jpg#4	Dua anjing berlari melewati taman .
 2663794355_e726ec7e05.jpg#0	Ada dua wanita berjemur di bikini .
 2663794355_e726ec7e05.jpg#1	Dua orang berjemur di samping air .
-2663794355_e726ec7e05.jpg#2	Dua wanita sedang berbaring di atas struktur beton di samping lautan .
+2663794355_e726ec7e05.jpg#2	Dua wanita sedang berbaring di atas bangunan beton di samping lautan .
 2663794355_e726ec7e05.jpg#3	Dua wanita berjemur di dekat air .
 2663794355_e726ec7e05.jpg#4	Dua wanita berjemur di teras beton .
 2664102751_d5a737a566.jpg#0	Seorang lelaki menatap tanah saat dia datang untuk mendarat dari parasailing .
@@ -12948,7 +12949,7 @@
 2664103423_c539f61016.jpg#2	Pria yang mencoba memandu kit di padang pasir .
 2664103423_c539f61016.jpg#3	Pria itu berjongkok ketika dia memegang parasut yang tertiup angin .
 2664103423_c539f61016.jpg#4	Pria itu meluncur di pasir sambil berpegangan pada peluncur layang-layangnya .
-2665264979_df9c284bf8.jpg#0	Seorang gadis mulai mengarungi rumput dalam yang menutupi struktur batu di garis pantai .
+2665264979_df9c284bf8.jpg#0	Seorang gadis mulai mengarungi rumput dalam yang menutupi bangunan batu di garis pantai .
 2665264979_df9c284bf8.jpg#1	Seorang gadis berjalan di jalan berpasir .
 2665264979_df9c284bf8.jpg#2	Seorang gadis kecil bermain di taman .
 2665264979_df9c284bf8.jpg#3	Seorang gadis muda dengan topi putih berjalan melalui area dengan pepohonan .
@@ -13135,7 +13136,7 @@
 2678612999_893ed671f8.jpg#4	Tiga anak laki-laki bermain sepak bola di atas rumput .
 2678798732_2998f9969c.jpg#0	Seorang fotografer memegang kameranya di sebelah pembatas oranye di samping air .
 2678798732_2998f9969c.jpg#1	Seorang fotografer berlutut di depan pagar yang melindungi dari jatuh ke dalam air .
-2678798732_2998f9969c.jpg#2	Seorang fotografer berlutut di samping tepi dok dengan kameranya .
+2678798732_2998f9969c.jpg#2	Seorang fotografer berlutut di samping tepi dermaga dengan kameranya .
 2678798732_2998f9969c.jpg#3	Seorang fotografer yang tersenyum
 2678798732_2998f9969c.jpg#4	Pria berjongkok itu memegang kamera besar .
 2679565682_91ecd283ff.jpg#0	Seorang pria dengan kemeja biru dan janggut melihat sesuatu yang dipegangnya .
@@ -13547,7 +13548,7 @@
 2705947033_5999147842.jpg#1	Tiga anak laki-laki di peron di hutan .
 2705947033_5999147842.jpg#2	Tiga anak laki-laki bermain dengan senjata mainan .
 2705947033_5999147842.jpg#3	Tiga anak menembakkan senjata di hutan .
-2705947033_5999147842.jpg#4	Tiga anak bermain di struktur kayu di luar .
+2705947033_5999147842.jpg#4	Tiga anak bermain di bangunan kayu di luar .
 2706023395_ac9eba0e42.jpg#0	Beberapa pria duduk di luar area dengan gerbang terbuka makan siang mereka .
 2706023395_ac9eba0e42.jpg#1	Sekelompok orang duduk di tanah , membelakangi dinding , di luar halaman berpagar .
 2706023395_ac9eba0e42.jpg#2	Beberapa pria duduk di luar sebuah gedung .
@@ -13841,8 +13842,8 @@
 2720985888_8f5920e8cf.jpg#0	Seorang gadis kecil tertawa saat bermain di rumah bermain .
 2720985888_8f5920e8cf.jpg#1	Seorang gadis kecil dengan kuncir kuda tertawa di dekat set permainan kastil plastik .
 2720985888_8f5920e8cf.jpg#2	seorang gadis kecil bermain di set taman bermain tikes kecil .
-2720985888_8f5920e8cf.jpg#3	Gadis pirang kecil yang tersenyum memegang tegakan di struktur permainan dan memegang mainan hijau .
-2720985888_8f5920e8cf.jpg#4	Seorang gadis muda tersenyum dalam struktur permainan plastik .
+2720985888_8f5920e8cf.jpg#3	Gadis pirang kecil yang tersenyum memegang tegakan di bangunan permainan dan memegang mainan hijau .
+2720985888_8f5920e8cf.jpg#4	Seorang gadis muda tersenyum dalam bangunan permainan plastik .
 272156850_c4445a53f4.jpg#0	Seorang pria dengan celana pendek berpose di atas batu besar .
 272156850_c4445a53f4.jpg#1	Seorang pria duduk di tebing batu dengan pepohonan di latar belakang .
 272156850_c4445a53f4.jpg#2	Seorang pria duduk di atas batu besar untuk berpose untuk sebuah gambar .
@@ -14932,7 +14933,7 @@
 2807177340_bc85291df5.jpg#1	Anak laki-laki bermain di taman bermain .
 2807177340_bc85291df5.jpg#2	Seorang anak berjins dan kaus oblong tergantung di bar monyet di taman bermain .
 2807177340_bc85291df5.jpg#3	Bocah Afrika-Amerika itu bermain di taman bermain .
-2807177340_bc85291df5.jpg#4	Seorang anak laki-laki yang tersenyum tergantung pada struktur garis ritsleting di taman bermain .
+2807177340_bc85291df5.jpg#4	Seorang anak laki-laki yang tersenyum tergantung pada bangunan garis ritsleting di taman bermain .
 2807209904_389d81f33a.jpg#0	sekelompok polisi di depan gedung kaca
 2807209904_389d81f33a.jpg#1	Sekelompok polisi berdiri di luar sebuah gedung .
 2807209904_389d81f33a.jpg#2	Sekelompok petugas polisi di luar gedung kota .
@@ -16080,7 +16081,7 @@
 2875583266_4da13ae12d.jpg#4	Pengendara sepeda motor yang disponsori sedang berbelok ke sirkuit balap .
 2875658507_c0d9ceae90.jpg#0	Seekor monyet melompat ke arah monyet lain di atas batu halus .
 2875658507_c0d9ceae90.jpg#1	Seekor monyet kecil melompat di atas monyet kecil lainnya .
-2875658507_c0d9ceae90.jpg#2	Satu monyet melompat di dekat monyet lain di atas struktur kayu .
+2875658507_c0d9ceae90.jpg#2	Satu monyet melompat di dekat monyet lain di atas bangunan kayu .
 2875658507_c0d9ceae90.jpg#3	Ada satu monyet kecil melompat sementara monyet yang lain menonton .
 2875658507_c0d9ceae90.jpg#4	dua monyet cokelat kecil di dinding saling bertarung .
 2876494009_9f96d7eaf2.jpg#0	Rollerblader ada di udara di tanjakan .
@@ -16576,7 +16577,7 @@
 2899089320_3e7f6bbaca.jpg#0	Seorang gadis berambut pirang duduk di atas bar monyet .
 2899089320_3e7f6bbaca.jpg#1	Seorang gadis di bar monyet .
 2899089320_3e7f6bbaca.jpg#2	Seorang gadis duduk di gym hutan merah .
-2899089320_3e7f6bbaca.jpg#3	Seorang gadis duduk di atas struktur permainan merah
+2899089320_3e7f6bbaca.jpg#3	Seorang gadis duduk di atas bangunan permainan merah
 2899089320_3e7f6bbaca.jpg#4	Seorang gadis kecil di gym hutan merah .
 2899276965_a20b839cfd.jpg#0	Seorang pria yang mengenakan celana hitam mengendarai sepanjang langkan beton di atas sepatu roda .
 2899276965_a20b839cfd.jpg#1	Rollerblader pada bentuk beton .
@@ -17597,7 +17598,7 @@
 2956895529_ec6275060e.jpg#1	pengendara sepeda melompat trik di sepeda
 2956895529_ec6275060e.jpg#2	Seorang pria duduk di sepedanya dengan satu roda di udara .
 2956895529_ec6275060e.jpg#3	Orang ini melakukan aksi di atas sepeda , dengan satu roda di langkan dan satu di udara .
-2956895529_ec6275060e.jpg#4	Pria muda melakukan trik sepeda di dok pemuatan di dekat tempat sampah .
+2956895529_ec6275060e.jpg#4	Pria muda melakukan trik sepeda di dermaga pemuatan di dekat tempat sampah .
 2957071266_1b40ec7d96.jpg#0	seekor anjing hitam dan seekor krim berlari melewati sebuah lapangan di depan sebuah rumah biru
 2957071266_1b40ec7d96.jpg#1	Seekor anjing hitam dan seekor anjing putih berlari melintasi lapangan di belakang sebuah rumah .
 2957071266_1b40ec7d96.jpg#2	Dua anjing berlari di sebuah lapangan di depan sebuah rumah .
@@ -17754,7 +17755,7 @@
 2971431335_e192613db4.jpg#3	Seseorang di atap melompati papan yang tersangkut di udara .
 2971431335_e192613db4.jpg#4	Ada seseorang di atas papan salju yang tinggi di udara .
 2971478694_79e46ea7e5.jpg#0	Kerumunan orang dengan gaun warna-warni .
-2971478694_79e46ea7e5.jpg#1	Kerumunan wanita mengenakan berbagai warna memasuki struktur batu .
+2971478694_79e46ea7e5.jpg#1	Kerumunan wanita mengenakan berbagai warna memasuki bangunan batu .
 2971478694_79e46ea7e5.jpg#2	Banyak orang etnis dengan jubah multi warna berkumpul untuk sebuah acara
 2971478694_79e46ea7e5.jpg#3	Banyak wanita telah berkumpul dan mendengarkan pembicara .
 2971478694_79e46ea7e5.jpg#4	Banyak wanita dengan sari berwarna-warni memasuki bangunan batu .
@@ -18088,7 +18089,7 @@
 2991994607_06f24ec7a6.jpg#2	orang-orang ada di pesta kostum .
 2991994607_06f24ec7a6.jpg#3	Orang-orang di pesta kostum .
 2991994607_06f24ec7a6.jpg#4	Pria berlumuran darah ini menjadi hit di pesta haloween .
-2992614450_b5a6692239.jpg#0	Seorang pengendara sepeda melompati struktur kayu horizontal dengan pedesaan di depannya .
+2992614450_b5a6692239.jpg#0	Seorang pengendara sepeda melompati bangunan kayu horizontal dengan pedesaan di depannya .
 2992614450_b5a6692239.jpg#1	Sepeda motor trail di udara
 2992614450_b5a6692239.jpg#2	Seorang pria dengan sepeda motor di udara
 2992614450_b5a6692239.jpg#3	Seseorang berada di udara dengan alat yang menyerupai sepeda .
@@ -18599,7 +18600,7 @@
 3019609769_c7809177f6.jpg#3	Sebuah keluarga miskin meninggalkan rumah mereka dengan hanya beberapa barang .
 3019609769_c7809177f6.jpg#4	Sekelompok kecil orang dewasa dan anak-anak berkulit hitam berjalan di permukaan cokelat .
 3019667009_20db160195.jpg#0	Seorang anak laki-laki menari ketika anak laki-laki lain berdiri di atas dinding bata pendek .
-3019667009_20db160195.jpg#1	Dua anak laki-laki bermain di struktur arsitektur yang sangat tua .
+3019667009_20db160195.jpg#1	Dua anak laki-laki bermain di bangunan arsitektur yang sangat tua .
 3019667009_20db160195.jpg#2	Dua anak laki-laki bermain di luar gedung .
 3019667009_20db160195.jpg#3	Dua orang berdiri di luar dekat pintu melengkung .
 3019667009_20db160195.jpg#4	Anak-anak muda bermain di depan gerbang benteng
@@ -20284,9 +20285,9 @@
 3107368071_724613fc4f.jpg#3	Sekelompok anak-anak multi-budaya senang dengan apa yang mereka tonton .
 3107368071_724613fc4f.jpg#4	audiensi anak-anak tersenyum dan menunjuk
 3107463441_7c68606450.jpg#0	Seorang anak laki-laki dengan jaket cokelat dan seorang gadis dengan jaket merah sedang duduk di beberapa batang logam dengan benda logam di antara mereka .
-3107463441_7c68606450.jpg#1	Seorang pria dan wanita menyusun struktur logam .
+3107463441_7c68606450.jpg#1	Seorang pria dan wanita menyusun bangunan logam .
 3107463441_7c68606450.jpg#2	Seorang pria dan wanita duduk dan mengerjakan balok logam .
-3107463441_7c68606450.jpg#3	Laki-laki dan perempuan membangun struktur logam .
+3107463441_7c68606450.jpg#3	Laki-laki dan perempuan membangun bangunan logam .
 3107463441_7c68606450.jpg#4	dua orang membangun bersama .
 3107513635_fe8a21f148.jpg#0	Sekelompok orang di stasiun kereta .
 3107513635_fe8a21f148.jpg#1	Foto platform kereta api pada hari yang dingin .
@@ -21142,7 +21143,7 @@
 314904143_5a216a192b.jpg#1	Seorang wanita memanjat tebing berbatu .
 314904143_5a216a192b.jpg#2	Seorang wanita melakukan panjat tebing .
 314904143_5a216a192b.jpg#3	seorang wanita dengan kuncir kuda memanjat dinding batu
-314904143_5a216a192b.jpg#4	Seorang wanita muda dengan kuncir kuda memanjat struktur batu putih .
+314904143_5a216a192b.jpg#4	Seorang wanita muda dengan kuncir kuda memanjat bangunan batu putih .
 314940358_ec1958dc1d.jpg#0	Sebuah closeup dari seorang pria tua yang mengenakan kacamata .
 314940358_ec1958dc1d.jpg#1	Seorang pria yang mengenakan kacamata melihat ke bawah dan tersenyum .
 314940358_ec1958dc1d.jpg#2	Seorang pria dengan rambut abu-abu dan kacamata terlihat ke bawah .
@@ -22133,10 +22134,10 @@
 3191135894_2b4bdabb6d.jpg#2	Festival seni yang lebih kecil di tepi hutan
 3191135894_2b4bdabb6d.jpg#3	anak-anak bermain rumput di festival luar ruangan yang ramai .
 3191135894_2b4bdabb6d.jpg#4	Orang-orang berbaur dengan adil yang penuh warna .
-3191805046_77c334b506.jpg#0	Seorang pria berdiri di atas struktur logam kecil di malam yang tertutup salju .
+3191805046_77c334b506.jpg#0	Seorang pria berdiri di atas bangunan logam kecil di malam yang tertutup salju .
 3191805046_77c334b506.jpg#1	Seorang peselancar salju melakukan trik di atas langkan , dengan pemandangan salju yang mengelilinginya .
 3191805046_77c334b506.jpg#2	seorang pria muda melompat di atas pagar merah
-3191805046_77c334b506.jpg#3	peselancar salju menyeimbangkan struktur kayu yang rendah di salju .
+3191805046_77c334b506.jpg#3	peselancar salju menyeimbangkan bangunan kayu yang rendah di salju .
 3191805046_77c334b506.jpg#4	Pria ini mengenakan celana putih dan kemeja biru , berdiri di atas langkan di salju .
 319185571_56162796da.jpg#0	Seekor anjing melompati aliran air di pantai berpasir .
 319185571_56162796da.jpg#1	Seekor anjing melompati genangan air di pantai
@@ -22260,7 +22261,7 @@
 3198247669_7493af04a7.jpg#4	Seseorang mengarungi danau dengan jaring ikan saat matahari terbenam .
 319847643_df7c2a1d25.jpg#0	Seorang anak mendorong wajahnya ke arah jendela taman bermain .
 319847643_df7c2a1d25.jpg#1	Seorang gadis merasa ngeri ketika tetesan air menghampirinya .
-319847643_df7c2a1d25.jpg#2	Cewek menyipit , menempel pada lubang oval di struktur basah dan berwarna-warni .
+319847643_df7c2a1d25.jpg#2	Cewek menyipit , menempel pada lubang oval di bangunan basah dan berwarna-warni .
 319847643_df7c2a1d25.jpg#3	Seorang anak laki-laki yang memiliki ekspresi lucu di wajahnya memiliki tangan di atas kepalanya dan melihat melalui lubang .
 319847643_df7c2a1d25.jpg#4	Air menyemprot anak dengan wajahnya melalui lubang yang dipotong .
 319847657_2c40e14113.jpg#0	Seorang gadis berbaju ungu memegang bantal .
@@ -23180,7 +23181,7 @@
 3234115903_f4dfc8fc75.jpg#4	Wanita memainkan permainan yang mirip dengan hoki , tetapi tanpa es .
 3234375022_1464ea7f8a.jpg#0	Seorang pria berseluncur salju di atas pagar salju kayu .
 3234375022_1464ea7f8a.jpg#1	Seorang peselancar salju terbang di udara .
-3234375022_1464ea7f8a.jpg#2	Seorang peselancar salju melompati struktur kayu
+3234375022_1464ea7f8a.jpg#2	Seorang peselancar salju melompati bangunan kayu .
 3234375022_1464ea7f8a.jpg#3	Orang yang memakai snowboarding jaket kuning .
 3234375022_1464ea7f8a.jpg#4	peselancar salju melewati pagar di salju .
 3234401637_84e0d14414.jpg#0	Dua pengendara sepeda di senja di pantai .
@@ -23433,7 +23434,7 @@
 3245504245_27931f5ec1.jpg#2	Seorang wanita melukis gambar di wajah seorang gadis .
 3245504245_27931f5ec1.jpg#3	Seorang wanita berkacamata sedang melukis seorang gadis berambut pirang .
 3245504245_27931f5ec1.jpg#4	wanita yang memakai kacamata itu melukis wajah gadis pirang itu .
-3245912109_fdeef6b456.jpg#0	Kerumunan orang di perlengkapan musim dingin berdiri di depan struktur kerajaan yang besar .
+3245912109_fdeef6b456.jpg#0	Kerumunan orang di perlengkapan musim dingin berdiri di depan bangunan kerajaan yang besar .
 3245912109_fdeef6b456.jpg#1	Sekelompok orang berkumpul di depan sebuah bangunan bersejarah
 3245912109_fdeef6b456.jpg#2	Banyak orang yang berkumpul berdiri di lapangan umum .
 3245912109_fdeef6b456.jpg#3	Ada sekelompok orang di mantel musim dingin berkumpul di depan sebuah bangunan besar .
@@ -23606,7 +23607,7 @@
 3251646144_d9f4ccca3f.jpg#0	Seorang anak laki-laki berlari di terowongan logam berputar di taman bermain .
 3251646144_d9f4ccca3f.jpg#1	Seorang anak laki-laki bermain di taman bermain .
 3251646144_d9f4ccca3f.jpg#2	seorang anak lelaki berlari melalui roda besar .
-3251646144_d9f4ccca3f.jpg#3	Seorang pria berada di taman dan akan memasuki struktur bundar besar .
+3251646144_d9f4ccca3f.jpg#3	Seorang pria berada di taman dan akan memasuki bangunan bundar besar .
 3251646144_d9f4ccca3f.jpg#4	Dua anak bermain di tong besar di taman bermain .
 3251648670_9339943ba2.jpg#0	Dua anak lelaki berlari dalam tong logam .
 3251648670_9339943ba2.jpg#1	Dua anak laki-laki berlari dalam tabung berputar .
@@ -23675,7 +23676,7 @@
 3255482333_5bcee79f7e.jpg#4	Seorang pemain ski yang mengenakan kacamata hitam putih sedang bermain ski menuruni gunung bersalju dengan sangat cepat .
 3255620561_7644747791.jpg#0	Seseorang bermain ski melompat dari gubuk bingkai .
 3255620561_7644747791.jpg#1	Seorang peselancar salju melompati gudang yang hampir tertutup salju
-3255620561_7644747791.jpg#2	Salju menutupi area berhutan dengan struktur dan seseorang di atas putih dan celana oranye di udara .
+3255620561_7644747791.jpg#2	Salju menutupi area berhutan dengan bangunan dan seseorang di atas putih dan celana oranye di udara .
 3255620561_7644747791.jpg#3	Pemain ski melompati gubuk di hutan yang tertutup salju .
 3255620561_7644747791.jpg#4	Pemain ski yang mengenakan celana oranye itu melompati atap kayu .
 3255732353_fbc487aefc.jpg#0	Seorang anak dengan warna merah muda melempar bola salju ke anak dengan warna biru .
@@ -23711,7 +23712,7 @@
 3256275785_9c3af57576.jpg#0	Seorang pria berjaket hitam melompat dari papan kayu .
 3256275785_9c3af57576.jpg#1	Seorang pria menyelam log sambil mengenakan semua perlengkapan hitam .
 3256275785_9c3af57576.jpg#2	Seorang lelaki melompat dari beberapa batang kayu .
-3256275785_9c3af57576.jpg#3	Seorang pria melompat dari struktur kayu .
+3256275785_9c3af57576.jpg#3	Seorang pria melompat dari bangunan kayu .
 3256275785_9c3af57576.jpg#4	Seorang pria dengan kemeja hitam melompat dari papan kayu pada hari berawan .
 3256456935_664a7a5bba.jpg#0	Seorang gadis di kelas seni bela diri menendang boneka .
 3256456935_664a7a5bba.jpg#1	Seorang gadis muda di kelas seni bela diri menendang tas .
@@ -25113,7 +25114,7 @@
 3317333893_9d0faa8d30.jpg#2	Seekor anjing hitam melarikan diri dari pagar kayu dengan salju di tanah .
 3317333893_9d0faa8d30.jpg#3	Seekor anjing hitam berlari melalui salju .
 3317333893_9d0faa8d30.jpg#4	Seekor anjing hitam mengenakan kerah merah berlari melalui salju di sebelah pagar kayu .
-3317960829_78bbfafbb6.jpg#0	Anak-anak memeriksa struktur besi .
+3317960829_78bbfafbb6.jpg#0	Anak-anak memeriksa bangunan besi .
 3317960829_78bbfafbb6.jpg#1	Tiga anak laki-laki memeriksa sepotong perabot luar ruang dari logam
 3317960829_78bbfafbb6.jpg#2	Tiga anak memeriksa meja teras .
 3317960829_78bbfafbb6.jpg#3	Tiga anak bermain dengan perabot logam .
@@ -25378,7 +25379,7 @@
 3326588088_172d1b2584.jpg#2	Dua pria berjas putih bermain gitar di atas panggung .
 3326588088_172d1b2584.jpg#3	Dua pria yang mengenakan lutut putih di lantai , memainkan gitar .
 3326588088_172d1b2584.jpg#4	Dua pria yang mengenakan jas putih bermain gitar di atas panggung .
-3327487011_1372c425fb.jpg#0	Ruang kelas yang penuh dengan siswa melihat ke arah yang sama di dalam struktur bambu .
+3327487011_1372c425fb.jpg#0	Ruang kelas yang penuh dengan siswa melihat ke arah yang sama di dalam bangunan bambu .
 3327487011_1372c425fb.jpg#1	Sekelompok anak-anak kebanyakan mengenakan kemeja seragam putih duduk dan menunggu .
 3327487011_1372c425fb.jpg#2	Sekelompok siswa berseragam mendengarkan dengan penuh perhatian ke depan kelas .
 3327487011_1372c425fb.jpg#3	Sekelompok besar perempuan semuanya menatap ke arah yang sama .
@@ -25536,7 +25537,7 @@
 3332467180_d72f9b067d.jpg#0	Seorang pria mengenakan kemeja putih merokok di samping tempat sampah .
 3332467180_d72f9b067d.jpg#1	Seorang pria sedang menyalakan asap di luar sebuah gedung .
 3332467180_d72f9b067d.jpg#2	seorang lelaki menyalakan rokok di dekat tempat sampah di sekutu .
-3332467180_d72f9b067d.jpg#3	Seorang pria menyalakan rokok di dok pemuatan di dekat tempat sampah .
+3332467180_d72f9b067d.jpg#3	Seorang pria menyalakan rokok di dermaga pemuatan di dekat tempat sampah .
 3332467180_d72f9b067d.jpg#4	Pria itu sedang menyalakan sebatang rokok di luar bagian belakang bangunan .
 3333017828_b930b9d41b.jpg#0	Seekor anjing berlari di sepanjang pantai dekat ombak .
 3333017828_b930b9d41b.jpg#1	Seekor anjing putih dan cokelat berlari di sepanjang garis pantai .
@@ -26006,7 +26007,7 @@
 3349309109_4024a09a17.jpg#0	Laki-laki dan perempuan naik dua unta terpisah .
 3349309109_4024a09a17.jpg#1	Dua betina naik punggung unta .
 3349309109_4024a09a17.jpg#2	dua gadis naik unta .
-3349309109_4024a09a17.jpg#3	Dua anak mengendarai unta di dekat struktur pedesaan yang diabaikan oleh pegunungan .
+3349309109_4024a09a17.jpg#3	Dua anak mengendarai unta di dekat bangunan pedesaan yang diabaikan oleh pegunungan .
 3349309109_4024a09a17.jpg#4	Dua anak di atas unta di padang pasir
 3349451628_4249a21c8f.jpg#0	Seorang anak laki-laki di gang berdebu bermain stickball .
 3349451628_4249a21c8f.jpg#1	Seorang anak lelaki mengayunkan sepotong kayu .
@@ -26548,11 +26549,11 @@
 3368819708_0bfa0808f8.jpg#2	Seorang peselancar salju sedang melakukan trik .
 3368819708_0bfa0808f8.jpg#3	Seorang peselancar salju melompat .
 3368819708_0bfa0808f8.jpg#4	Seorang penonton dari helikopter melihat seorang peselancar salju di bawah
-3368865171_597d51cdd5.jpg#0	Seorang anak mengendarai unicycle sementara kerumunan mengawasi .
+3368865171_597d51cdd5.jpg#0	Seorang anak mengendarai sepeda roda satu sementara kerumunan mengawasi .
 3368865171_597d51cdd5.jpg#1	Seorang gadis kecil mengendarai sepeda selama pawai .
-3368865171_597d51cdd5.jpg#2	Seorang gadis kecil mengendarai unicycle .
-3368865171_597d51cdd5.jpg#3	Gadis berpakaian kotak-kotak mengendarai unicycle .
-3368865171_597d51cdd5.jpg#4	Orang berseragam kotak-kotak naik unicycle sementara kerumunan mengawasi .
+3368865171_597d51cdd5.jpg#2	Seorang gadis kecil mengendarai sepeda roda satu .
+3368865171_597d51cdd5.jpg#3	Gadis berpakaian kotak-kotak mengendarai sepeda roda satu .
+3368865171_597d51cdd5.jpg#4	Orang berseragam kotak-kotak naik sepeda roda satu sementara kerumunan mengawasi .
 3369258147_03db257f0f.jpg#0	Seorang pria meringkuk sambil duduk di sofa di area publik yang sibuk .
 3369258147_03db257f0f.jpg#1	Seorang pria membungkuk di sofa dengan orang-orang berjalan dan duduk di sekelilingnya .
 3369258147_03db257f0f.jpg#2	Seorang pria mengenakan topi tidur di kursi cokelat besar .
@@ -27416,7 +27417,7 @@
 3410215754_5d5caeffaf.jpg#0	Anak laki-laki di amfiteater .
 3410215754_5d5caeffaf.jpg#1	Empat orang berpose di platform batu .
 3410215754_5d5caeffaf.jpg#2	Empat lelaki di depan gedung yang ditinggalkan berusaha membuat surat dengan tubuh mereka
-3410215754_5d5caeffaf.jpg#3	empat anak berpura-pura bermain dalam struktur arsitektur yang tidak biasa
+3410215754_5d5caeffaf.jpg#3	empat anak berpura-pura bermain dalam bangunan arsitektur yang tidak biasa
 3410215754_5d5caeffaf.jpg#4	Empat anak berpose di atas panggung .
 3410899419_4f8dca6f3f.jpg#0	Sekelompok anak muda telanjang yang mandi di dekat wadah logam besar dan ember kuning .
 3410899419_4f8dca6f3f.jpg#1	sekelompok anak-anak telanjang telanjang mandi di luar
@@ -27998,7 +27999,7 @@
 3429581486_4556471d1a.jpg#2	Seekor anjing berjalan di atas rumput hijau di dekat rerimbunan pohon .
 3429581486_4556471d1a.jpg#3	Seekor anjing dengan mantel berwarna cokelat dan putih berlari melintasi bidang rumput hijau cerah .
 3429581486_4556471d1a.jpg#4	Seekor anjing yang cukup besar berlari melalui rumput
-3429641260_2f035c1813.jpg#0	Seorang anak laki-laki melompat di dekat struktur bata .
+3429641260_2f035c1813.jpg#0	Seorang anak laki-laki melompat di dekat bangunan bata .
 3429641260_2f035c1813.jpg#1	Seorang anak melompat di atas trampolin di depan dinding bata dan di bawah bendera berwarna .
 3429641260_2f035c1813.jpg#2	Seorang anak kecil melompat dari balkon bata .
 3429641260_2f035c1813.jpg#3	Seorang anak lelaki kecil melompat dari dinding bata ke sebuah meja di bawah ini .
@@ -28090,7 +28091,7 @@
 3432495898_a5859f06b6.jpg#4	Seekor anjing cokelat berguling-guling di atas aspal dengan sepeda dan skuter di latar belakang .
 3432550415_e7b77232de.jpg#0	Seorang anak laki-laki berdiri di pagar
 3432550415_e7b77232de.jpg#1	Seorang anak laki-laki berdiri di atas rel dengan tangan terentang .
-3432550415_e7b77232de.jpg#2	Seorang skater in-line sedang mencoba trik dalam rel logam panjang di belakang struktur besar .
+3432550415_e7b77232de.jpg#2	Seorang skater in-line sedang mencoba trik dalam rel logam panjang di belakang bangunan besar .
 3432550415_e7b77232de.jpg#3	Seorang pemain skateboard mengendarai skateboard di sepanjang pagar logam di depan sebuah bangunan beton .
 3432550415_e7b77232de.jpg#4	Bocah itu sedang melakukan trik di atas rel di samping jembatan layang .
 3432586199_e50b0d6cb7.jpg#0	Seorang anak laki-laki membawa sepotong salju .
@@ -29186,8 +29187,8 @@
 347543966_b2053ae78c.jpg#0	Sekelompok pria berdiri di luar gedung kaca dan baja .
 347543966_b2053ae78c.jpg#1	Tiga pria sedang memandangi sebuah tembok dengan sangat cermat di sebuah kota .
 347543966_b2053ae78c.jpg#2	Tiga pria berdiri di area kaca .
-347543966_b2053ae78c.jpg#3	Tiga orang dalam struktur kaca .
-347543966_b2053ae78c.jpg#4	Tiga orang berdiri di struktur kaca luar .
+347543966_b2053ae78c.jpg#3	Tiga orang dalam bangunan kaca .
+347543966_b2053ae78c.jpg#4	Tiga orang berdiri di bangunan kaca luar .
 3475552729_a3abd81ee6.jpg#0	seorang anak lelaki bertopi abu-abu membawa bola sepak dengan dinding berwarna kemerahan .
 3475552729_a3abd81ee6.jpg#1	Seorang anak yang mengenakan kemeja dan topi biru sedang membawa bola sepak .
 3475552729_a3abd81ee6.jpg#2	Seorang anak laki-laki memegang bola sepak
@@ -29793,7 +29794,7 @@
 3500342526_393c739e2f.jpg#2	Seekor pudel hitam bermain dengan anjing lain di ladang kering .
 3500342526_393c739e2f.jpg#3	Pudel hitam dan anjing lain dengan sesuatu di mulutnya bermain di atas rumput kering .
 3500342526_393c739e2f.jpg#4	Dua anjing bermain di rumput kuning dengan bola .
-3500399969_f54ce5848f.jpg#0	Tujuh orang berpose di atas struktur yang membentang di atas wilayah berair dan laut .
+3500399969_f54ce5848f.jpg#0	Tujuh orang berpose di atas bangunan yang membentang di atas wilayah berair dan laut .
 3500399969_f54ce5848f.jpg#1	Tujuh orang melompat ke air biru jernih .
 3500399969_f54ce5848f.jpg#2	Tujuh orang melompat ke air .
 3500399969_f54ce5848f.jpg#3	tujuh orang melompat ke air .
@@ -30204,15 +30205,15 @@
 3517466790_17c7753a1a.jpg#3	Kerumunan orang di acara formal .
 3517466790_17c7753a1a.jpg#4	Remaja mengenakan pakaian formal berdiri dalam kelompok di luar .
 3518118675_5053b3f738.jpg#0	Seorang pria melakukan trik pada langkah-langkah publik .
-3518118675_5053b3f738.jpg#1	Seorang pria mengendarai unicycle menuruni tangga .
+3518118675_5053b3f738.jpg#1	Seorang pria mengendarai sepeda roda satu menuruni tangga .
 3518118675_5053b3f738.jpg#2	Seorang pria berjalan menuruni tangga .
 3518118675_5053b3f738.jpg#3	Seorang skateboarder menuruni tangga .
 3518118675_5053b3f738.jpg#4	Pria itu sedang menuruni tangga dengan sepatu roda .
 3518126579_e70e0cbb2b.jpg#0	Seorang pria menaiki sesuatu menuruni tangga .
 3518126579_e70e0cbb2b.jpg#1	Seorang pria meluncur menuruni tangga luar yang panjang .
-3518126579_e70e0cbb2b.jpg#2	Seorang pria muda mencoba mengendarai unicycle menuruni tangga luar yang diwarnai lumut .
+3518126579_e70e0cbb2b.jpg#2	Seorang pria muda mencoba mengendarai sepeda roda satu menuruni tangga luar yang diwarnai lumut .
 3518126579_e70e0cbb2b.jpg#3	lelaki itu sedang mengayuh sepeda kecil menuruni tangga .
-3518126579_e70e0cbb2b.jpg#4	Dua pria berjalan menuruni tangga batu , satu mengendarai unicycle
+3518126579_e70e0cbb2b.jpg#4	Dua pria berjalan menuruni tangga batu , satu mengendarai sepeda roda satu
 3518334317_bc40bae18d.jpg#0	Seorang pria dan wanita berjalan menjauh dari pasar luar .
 3518334317_bc40bae18d.jpg#1	Banyak orang berjalan melalui area perbelanjaan pedesaan .
 3518334317_bc40bae18d.jpg#2	Pria berjalan di pasar timur tengah .
@@ -30294,7 +30295,7 @@
 3520922312_e58a6cfd9c.jpg#3	pasangan muda yang mengenakan kemeja putih dan celana jeans biru berjalan di dermaga kayu .
 3520922312_e58a6cfd9c.jpg#4	Dua orang membawa tas berjalan bersama .
 3520936130_9e90872560.jpg#0	Seorang pria dan seorang wanita duduk di sebuah bangku di luar sebuah bangunan kayu .
-3520936130_9e90872560.jpg#1	Dua orang duduk di atas struktur kayu di dekat pohon sambil berbicara .
+3520936130_9e90872560.jpg#1	Dua orang duduk di atas bangunan kayu di dekat pohon sambil berbicara .
 3520936130_9e90872560.jpg#2	Dua orang duduk di dinding bata dan berbicara .
 3520936130_9e90872560.jpg#3	dua orang duduk di bangku taman .
 3520936130_9e90872560.jpg#4	Dua orang duduk di bangku kayu dan saling berhadapan untuk berbicara .
@@ -31838,11 +31839,11 @@
 3581451227_618854cea4.jpg#2	Seorang gadis kecil dan laki-laki setelah pernikahan di ladang
 3581451227_618854cea4.jpg#3	Seorang gadis muda dengan pakaian kuning dan seorang anak lelaki kecil dengan jas putih .
 3581451227_618854cea4.jpg#4	Ada seorang gadis muda dengan pakaian kuning dan seorang anak laki-laki dengan jas putih berdiri di sebuah ladang rumput .
-3581538034_783b7d0d09.jpg#0	Seekor anjing dipegang oleh tali kekang pada papan air di atas percikan air dengan struktur tabung di latar belakang .
+3581538034_783b7d0d09.jpg#0	Seekor anjing dipegang oleh tali kekang pada papan air di atas percikan air dengan bangunan tabung di latar belakang .
 3581538034_783b7d0d09.jpg#1	Seorang pria jatuh dari tali ke laut di atas papan .
 3581538034_783b7d0d09.jpg#2	Seorang pria tergantung di atas air sambil memegang ski besar yang berbentuk seperti papan luncur .
 3581538034_783b7d0d09.jpg#3	Boarder air diderek saat melompat .
-3581538034_783b7d0d09.jpg#4	Waterskier melompat dari permukaan air , struktur yang tidak diketahui di latar belakang .
+3581538034_783b7d0d09.jpg#4	Waterskier melompat dari permukaan air , bangunan yang tidak diketahui di latar belakang .
 3581818450_546c89ca38.jpg#0	Seekor anjing cokelat muda besar berlari di atas rumput hijau .
 3581818450_546c89ca38.jpg#1	Seekor anjing cokelat berlari melalui rumput hijau .
 3581818450_546c89ca38.jpg#2	Seekor anjing kuning berlari melintasi halaman hijau subur .
@@ -31911,7 +31912,7 @@
 3583321426_f373c52161.jpg#0	Seorang wanita tua-timur tengah hendak merokok sebungkus rokok .
 3583321426_f373c52161.jpg#1	Seorang wanita Timur tengah mengenakan hijau sedang duduk di tangga batu memegang sekotak rokok .
 3583321426_f373c52161.jpg#2	Seorang wanita berjilbab oranye menarik sebungkus rokok dari karton .
-3583321426_f373c52161.jpg#3	Seorang wanita yang mengenakan gaun hijau panjang dan syal di kepalanya memegang sebungkus rokok dan sekotak rokok Winston dengan struktur batu .
+3583321426_f373c52161.jpg#3	Seorang wanita yang mengenakan gaun hijau panjang dan syal di kepalanya memegang sebungkus rokok dan sekotak rokok Winston dengan bangunan batu .
 3583321426_f373c52161.jpg#4	Wanita dengan jilbab merah dan baju hijau memegang karton rokok dan duduk di tangga beton .
 3583516290_1c87a13770.jpg#0	Adegan keramaian dengan orang-orang dengan pakaian asli kuning dan putih .
 3583516290_1c87a13770.jpg#1	Sekelompok orang yang mengenakan pakaian pesta berkumpul di luar gedung .
@@ -31924,7 +31925,7 @@
 3583704941_611353857e.jpg#3	gadis dengan helm menunggang kuda cokelat
 3583704941_611353857e.jpg#4	Penunggang kuda cokelat itu mengenakan kemeja biru .
 3583903436_028b06c489.jpg#0	Seorang anak laki-laki sedang bermain di ayunan hijau di depan lumbung kayu .
-3583903436_028b06c489.jpg#1	Seorang anak lelaki mengayunkan ayunan hijau di luar struktur kayu tua .
+3583903436_028b06c489.jpg#1	Seorang anak lelaki mengayunkan ayunan hijau di luar bangunan kayu tua .
 3583903436_028b06c489.jpg#2	Seorang anak laki-laki di ayunan hijau naik melalui udara dekat gudang .
 3583903436_028b06c489.jpg#3	Seorang anak lelaki berayun di samping sebuah bangunan kayu tua .
 3583903436_028b06c489.jpg#4	Bocah itu berayun di sebelah gudang .
@@ -32116,7 +32117,7 @@
 3590739067_58baffb3a7.jpg#0	Seorang wanita di luar bermain gitar .
 3590739067_58baffb3a7.jpg#1	Seorang wanita dengan gitar bernyanyi di depan sebuah gedung dan rumput .
 3590739067_58baffb3a7.jpg#2	seorang wanita dengan gitar bersenar nilon sedang bermain di sebuah lapangan
-3590739067_58baffb3a7.jpg#3	Seorang wanita muda mengangkat suaranya dalam lagu di sebuah lapangan dekat struktur kayu tua .
+3590739067_58baffb3a7.jpg#3	Seorang wanita muda mengangkat suaranya dalam lagu di sebuah lapangan dekat bangunan kayu tua .
 3590739067_58baffb3a7.jpg#4	Gadis itu memainkan gitar sambil bernyanyi di adegan pedesaan .
 3590753142_61993d39df.jpg#0	Sebuah keluarga melihat melalui teropong di sebuah kota di atas genangan air
 3590753142_61993d39df.jpg#1	Tamasya melihat air di kota .
@@ -32382,7 +32383,7 @@
 3601978895_9fec23ce0c.jpg#1	Dua pria berdiri di bawah sebuah karya seni besar di dekat sebuah bangunan bata .
 3601978895_9fec23ce0c.jpg#2	Dua pria berdiri di bawah apa yang tampak seperti robot raksasa .
 3601978895_9fec23ce0c.jpg#3	Dua pria berdiri di kaki patung besar .
-3601978895_9fec23ce0c.jpg#4	Dua pria berdiri di dekat struktur logam dari dinding bata .
+3601978895_9fec23ce0c.jpg#4	Dua pria berdiri di dekat bangunan logam dari dinding bata .
 3602676311_824b2c04ba.jpg#0	Pengendara sepeda membuat lompatan yang tinggi .
 3602676311_824b2c04ba.jpg#1	Seorang pria melakukan aksi udara di atas sepeda .
 3602676311_824b2c04ba.jpg#2	Seorang pria di atas sepeda melakukan lompatan .
@@ -33217,7 +33218,7 @@
 3638178504_be1ff246bd.jpg#1	Seorang anak kecil menatap kuda dan kuda poni .
 3638178504_be1ff246bd.jpg#2	Dua kuda memandangi anak kecil .
 3638178504_be1ff246bd.jpg#3	Dua kuda memandangi pagar pada seorang anak yang mengenakan kaus merah .
-3638178504_be1ff246bd.jpg#4	Dua kuda memandangi seorang anak kecil dengan struktur yang runtuh di dekatnya .
+3638178504_be1ff246bd.jpg#4	Dua kuda memandangi seorang anak kecil dengan bangunan yang runtuh di dekatnya .
 3638318149_b60450bfbe.jpg#0	Seorang pria melakukan trik di atas skateboard .
 3638318149_b60450bfbe.jpg#1	Seorang pria melakukan trik di atas skateboard di area tertutup .
 3638318149_b60450bfbe.jpg#2	pemain skateboard melakukan trik .
@@ -33313,7 +33314,7 @@
 3639845565_be547c38ba.jpg#2	Seorang pria bermain gitar di bangku-bangku pasisir .
 3639845565_be547c38ba.jpg#3	Orang dewasa dan anak di bangku di dekat air .
 3639845565_be547c38ba.jpg#4	Pria yang duduk di bangku mengenakan topi koboi putih dan bermain gitar
-3639967449_137f48b43d.jpg#0	Dua anak laki-laki duduk di depan sebuah struktur memakan es loli .
+3639967449_137f48b43d.jpg#0	Dua anak laki-laki duduk di depan sebuah bangunan memakan es loli .
 3639967449_137f48b43d.jpg#1	Dua anak laki-laki memakan es loli di luar .
 3639967449_137f48b43d.jpg#2	Dua anak laki-laki duduk dan makan es krim .
 3639967449_137f48b43d.jpg#3	Dua bocah lelaki duduk di atas tangga makan es lolipop .
@@ -33329,7 +33330,7 @@
 3640104986_5d8c9a9948.jpg#3	Beberapa orang berdiri di sekitar gambar yang rumit dari Yesus yang tersalib di jalan kota .
 3640104986_5d8c9a9948.jpg#4	Kuil Yesus yang rumit sedang dibawa dalam sebuah parade .
 3640109324_3ce89e4d1a.jpg#0	Sekelompok pria membawa peti mati perak .
-3640109324_3ce89e4d1a.jpg#1	Pria membawa struktur kecil di bahu mereka sementara yang lain memainkan alat musik di belakang .
+3640109324_3ce89e4d1a.jpg#1	Pria membawa peti kecil di bahu mereka sementara yang lain memainkan alat musik di belakang .
 3640109324_3ce89e4d1a.jpg#2	Pria berbaju biru membawa sesuatu di pundak mereka diikuti oleh sebuah band .
 3640109324_3ce89e4d1a.jpg#3	Pembawa Pall di pemakaman Katolik .
 3640109324_3ce89e4d1a.jpg#4	Para lelaki mengenakan ungu dan membawa peti mati perak .
@@ -33732,7 +33733,7 @@
 3657503733_9888ccf05e.jpg#1	Seseorang melakukan lompatan dengan sepeda dalam suasana alami .
 3657503733_9888ccf05e.jpg#2	Seseorang sedang melakukan trik sepeda di atas bebatuan sementara seorang pengamat memberikan acungan jempol .
 3657503733_9888ccf05e.jpg#3	Seseorang melompat dengan sepeda melewati bukit-bukit tanah
-3657503733_9888ccf05e.jpg#4	Seseorang di atas unicycle melompat turun jalan di daerah yang indah dikelilingi oleh semak-semak .
+3657503733_9888ccf05e.jpg#4	Seseorang di atas sepeda roda satu melompat turun jalan di daerah yang indah dikelilingi oleh semak-semak .
 365759754_6cf7068c9a.jpg#0	Seekor anjing hitam membawa mainan putih di mulutnya dan berjalan di atas lapangan bersalju .
 365759754_6cf7068c9a.jpg#1	Seekor anjing hitam berlari melalui salju dengan sesuatu di mulutnya .
 365759754_6cf7068c9a.jpg#2	Seekor anjing hitam mengambil di salju .
@@ -34750,7 +34751,7 @@
 3704995657_e2e114083d.jpg#4	Seseorang yang mengendarai mobil salju mengeluarkan roda .
 3705430840_e108de78bf.jpg#0	Seorang pria botak yang mengenakan pakaian biru sedang mengendarai sepatu roda di jalan beraspal .
 3705430840_e108de78bf.jpg#1	Seorang pria dengan kemeja biru mengendarai sepatu roda di jalan .
-3705430840_e108de78bf.jpg#2	Seorang pria mengendarai unicycle di jalan beraspal
+3705430840_e108de78bf.jpg#2	Seorang pria mengendarai sepeda roda satu di jalan beraspal
 3705430840_e108de78bf.jpg#3	Seorang pria mengenakan kemeja kotak-kotak biru mengendarai sepatu roda di jalan .
 3705430840_e108de78bf.jpg#4	Seorang pria mengenakan kemeja biru lengan panjang dan celana jins sedang mengendarai sepatu roda di jalan .
 3705688385_47651205d3.jpg#0	Seorang bocah lelaki bertelanjang dada melemparkan sesuatu dengan sinar matahari rendah di atas air
@@ -36073,7 +36074,7 @@
 417577408_eb571658c1.jpg#2	Seekor anjing berlari di hutan .
 417577408_eb571658c1.jpg#3	Seekor anjing berlari dengan cepat melewati hutan .
 417577408_eb571658c1.jpg#4	seekor anjing berlari melewati hutan .
-417966898_a04f9b5349.jpg#0	Dua gadis tergantung terbalik di struktur taman .
+417966898_a04f9b5349.jpg#0	Dua gadis tergantung terbalik di bangunan taman .
 417966898_a04f9b5349.jpg#1	Dua gadis menggantung terbalik di taman
 417966898_a04f9b5349.jpg#2	Dua gadis bermain di gym hutan .
 417966898_a04f9b5349.jpg#3	Dua gadis kecil tergantung terbalik di atas bingkai panjat .
@@ -36351,7 +36352,7 @@
 432490118_54a9c0e500.jpg#0	A Collie dan Springer Spaniel bermain di luar .
 432490118_54a9c0e500.jpg#1	Anjing cokelat dan putih besar melompat ke arah anjing kecil cokelat dan putih .
 432490118_54a9c0e500.jpg#2	Dua anjing cokelat dan putih berkelahi di area berumput di depan pohon .
-432490118_54a9c0e500.jpg#3	Dua anjing cokelat dan putih di rumput dekat struktur batu .
+432490118_54a9c0e500.jpg#3	Dua anjing cokelat dan putih di rumput dekat bangunan batu .
 432490118_54a9c0e500.jpg#4	Dua anjing cokelat dan putih saling memandang dalam suasana luar .
 432496659_f01464d9fb.jpg#0	seekor anjing cokelat dan putih berjalan melalui gurun .
 432496659_f01464d9fb.jpg#1	Collie berlari melintasi halaman di musim semi .
@@ -36375,7 +36376,7 @@
 434433505_966e50e17d.jpg#4	Pemain skateboard ini , mengenakan jins dan sepatu tenis , meraih papan saat di udara .
 434792818_56375e203f.jpg#0	Pasangan memandangi patung merah
 434792818_56375e203f.jpg#1	Seorang pria dan seorang wanita memandangi sebuah patung merah .
-434792818_56375e203f.jpg#2	Seorang pria dan wanita melihat kembali ke kamera sambil berdiri di depan struktur seni merah .
+434792818_56375e203f.jpg#2	Seorang pria dan wanita melihat kembali ke kamera sambil berdiri di depan bangunan seni merah .
 434792818_56375e203f.jpg#3	Seorang pria dan wanita berdiri di depan sebuah patung besar berwarna merah modern .
 434792818_56375e203f.jpg#4	Seorang pria dan wanita berdiri di dekat patung merah besar di luar .
 434938585_fbf913dfb4.jpg#0	Foto seorang wanita muda yang tersenyum di depan meja di jalan .
@@ -36463,7 +36464,7 @@
 439492931_a96d590e40.jpg#2	Empat anjing di area berumput .
 439492931_a96d590e40.jpg#3	Empat anjing berukuran sedang saling bergulat di ladang rumput .
 439492931_a96d590e40.jpg#4	Empat anjing kecil bermain di luar .
-439569646_c917f1bc78.jpg#0	Seorang gadis bersembunyi di balik struktur kayu yang dicat di dalam sebuah bangunan .
+439569646_c917f1bc78.jpg#0	Seorang gadis bersembunyi di balik bangunan kayu yang dicat di dalam sebuah bangunan .
 439569646_c917f1bc78.jpg#1	Seorang gadis kecil dengan gaun merah menghadap panel dengan punggung menghadap kamera .
 439569646_c917f1bc78.jpg#2	Seorang gadis pirang muda mengenakan gaun merah berlutut di karpet merah
 439569646_c917f1bc78.jpg#3	Seorang gadis muda menghadapi dinding putih dan hitam di ruangan berkarpet merah .
@@ -37814,8 +37815,8 @@
 509200598_171a1ab6c8.jpg#3	Dua anjing hitam sedang bermain di rumput .
 509200598_171a1ab6c8.jpg#4	dua anjing hitam bermain bersama di halaman
 509241560_00e5b20562.jpg#0	Sekelompok anak-anak bermain di dekat patung .
-509241560_00e5b20562.jpg#1	Sekelompok anak-anak bermain di struktur penuh warna .
-509241560_00e5b20562.jpg#2	Empat anak bermain di struktur seperti tenda
+509241560_00e5b20562.jpg#1	Sekelompok anak-anak bermain di bangunan penuh warna .
+509241560_00e5b20562.jpg#2	Empat anak bermain di bangunan seperti tenda .
 509241560_00e5b20562.jpg#3	Empat anak timur tengah , tiga perempuan dan satu laki-laki , memanjat sebuah gua dengan interior merah muda .
 509241560_00e5b20562.jpg#4	Beberapa anak memanjat kuil .
 509778093_21236bb64d.jpg#0	seekor anjing cokelat dan putih mengejar bola di atas rumput .
@@ -37998,9 +37999,9 @@
 516998046_1175674fcd.jpg#2	Seekor anjing berlari di laut di samping pantai .
 516998046_1175674fcd.jpg#3	Seekor anjing berlari melalui air .
 516998046_1175674fcd.jpg#4	Percikan anjing mengalir di atas air .
-517094985_4b9e926936.jpg#0	Seorang anak sedang mengendarai unicycle di sepanjang jalan tepi sungai di sebelah seorang wanita yang sedang membawa anjing .
+517094985_4b9e926936.jpg#0	Seorang anak sedang mengendarai sepeda roda satu di sepanjang jalan tepi sungai di sebelah seorang wanita yang sedang membawa anjing .
 517094985_4b9e926936.jpg#1	Seorang wanita dan seorang anak laki-laki dengan sepatu roda .
-517094985_4b9e926936.jpg#2	Seorang wanita memegang tali dengan anjing di satu tangan dan tangan seorang anak mengendarai unicycle di tangan lainnya .
+517094985_4b9e926936.jpg#2	Seorang wanita memegang tali dengan anjing di satu tangan dan tangan seorang anak mengendarai sepeda roda satu di tangan lainnya .
 517094985_4b9e926936.jpg#3	Seorang wanita memegang tangan seorang anak dengan helm merah di atas sepedanya .
 517094985_4b9e926936.jpg#4	Wanita yang membawa anjing itu memegang tangan anak itu di atas sepatu roda .
 517102724_a0f3069156.jpg#0	Seekor anjing hitam di depan air terjun .
@@ -38023,7 +38024,7 @@
 518610439_b64ab21c02.jpg#2	Seorang gadis berjins melakukan handstand di pantai samudera .
 518610439_b64ab21c02.jpg#3	Seorang wanita melakukan handstand di pantai .
 518610439_b64ab21c02.jpg#4	Seorang wanita yang mengenakan jeans sedang melakukan handstand di pantai .
-518789868_8895ef8792.jpg#0	Seorang anak laki-laki dengan kemeja hitam berada di dalam struktur dengan balok langit-langit kayu .
+518789868_8895ef8792.jpg#0	Seorang anak laki-laki dengan kemeja hitam berada di dalam bangunan dengan balok langit-langit kayu .
 518789868_8895ef8792.jpg#1	Seorang anak laki-laki sedang bermain di teater gelap dekat panggung .
 518789868_8895ef8792.jpg#2	Seorang laki-laki dengan kemeja hitam di dekat gerbang lengkung besar .
 518789868_8895ef8792.jpg#3	Seorang anak lelaki di ruang kosong dengan dua lainnya di latar belakang .
@@ -38199,7 +38200,7 @@
 527968666_1fcddf81ab.jpg#3	Seekor anjing hitam basah muncul dari air .
 527968666_1fcddf81ab.jpg#4	Anjing itu berada di tali dan berjalan keluar dari air .
 528498076_43f0ef36b5.jpg#0	Seorang anak laki-laki melompat di tempat tidur .
-528498076_43f0ef36b5.jpg#1	Seorang anak kecil melompat pada struktur yang ditutupi dengan bahan lunak .
+528498076_43f0ef36b5.jpg#1	Seorang anak kecil melompat pada bangunan yang ditutupi dengan bahan lunak .
 528498076_43f0ef36b5.jpg#2	Seorang anak laki-laki mengenakan lompatan putih di tempat tidur .
 528498076_43f0ef36b5.jpg#3	Seorang balita dengan celana pendek olahraga putih siap melompat di tempat tidur
 528498076_43f0ef36b5.jpg#4	Anak putih melompat di tempat tidur
@@ -38521,7 +38522,7 @@
 540604040_bec822c144.jpg#0	Seorang gadis meluncur ke bawah tiang
 540604040_bec822c144.jpg#1	Seorang anak kecil dengan kuncir kuda mengenakan celana pendek jean dan kemeja merah muda dan cokelat memanjat di tiang dekat peralatan bermain kayu .
 540604040_bec822c144.jpg#2	Seorang gadis muda Asia sedang meluncur ke bawah tiang pada peralatan bermain luar ruangan .
-540604040_bec822c144.jpg#3	Seorang gadis muda meluncur di sebuah bar dalam struktur permainan .
+540604040_bec822c144.jpg#3	Seorang gadis muda meluncur di sebuah bar dalam bangunan permainan .
 540604040_bec822c144.jpg#4	Seorang gadis muda meluncur ke bawah tiang hitam .
 540721368_12ac732c6c.jpg#0	Seorang gadis meniup peluit .
 540721368_12ac732c6c.jpg#1	Seorang gadis kecil berpakaian kuning dengan bunga-bunga merah meniup peluit .
@@ -38973,7 +38974,7 @@
 615916000_5044047d71.jpg#2	Seorang wanita dalam parade mengenakan kostum berpayet hitam .
 615916000_5044047d71.jpg#3	Seorang wanita mengenakan pakaian hitam dengan payet emas dan spangles .
 615916000_5044047d71.jpg#4	Seorang wanita dengan rambut hitam dan pakaian aneh .
-616045808_0286d0574b.jpg#0	Seseorang yang berbusana dan topi berbulu merah muda mengendarai unicycle di sebuah parade .
+616045808_0286d0574b.jpg#0	Seseorang yang berbusana dan topi berbulu merah muda mengendarai sepeda roda satu di sebuah parade .
 616045808_0286d0574b.jpg#1	Seseorang mengendarai sepatu roda di jalan bersama banyak orang di sekitarnya .
 616045808_0286d0574b.jpg#2	seseorang mengenakan pakaian hitam dan merah muda dan mengendarai topi di atas sepatu roda di jalan .
 616045808_0286d0574b.jpg#3	Seorang wanita mengenakan topi hitam dan merah muda dan besar , mengendarai sepeda di parade .
@@ -39468,7 +39469,7 @@
 755326139_ee344ece7b.jpg#2	Gadis itu bersandar dan menyiram air dengan rambutnya .
 755326139_ee344ece7b.jpg#3	Gadis itu mengeluarkan rambutnya dari air .
 755326139_ee344ece7b.jpg#4	Air mengalir dari seorang wanita muda di kolam renang membalik rambutnya yang basah ke belakang .
-756004341_1a816df714.jpg#0	Dua anak di halaman mengenakan kacamata hitam , dengan struktur permainan di belakang mereka .
+756004341_1a816df714.jpg#0	Dua anak di halaman mengenakan kacamata hitam , dengan bangunan permainan di belakang mereka .
 756004341_1a816df714.jpg#1	Dua anak dengan kacamata hitam oranye .
 756004341_1a816df714.jpg#2	Dua anak mengenakan kacamata hitam duduk di luar tenda plastik .
 756004341_1a816df714.jpg#3	Dua gadis kecil duduk di rumput mengenakan kacamata hitam .
@@ -40170,7 +40171,7 @@
 944374205_fd3e69bfca.jpg#4	Anak-anak berpakaian juga sedang bermain sepak bola di lapangan berbatu di depan sebuah bangunan .
 944788251_a0bcd4b960.jpg#0	Seorang anak laki-laki dan seekor anjing di dermaga sedang memperhatikan seekor anjing lain berenang menjauh .
 944788251_a0bcd4b960.jpg#1	Seorang anak laki-laki dan seekor anjing berdiri di dermaga mengawasi anjing lain .
-944788251_a0bcd4b960.jpg#2	Seorang anak laki-laki dan seekor anjing besar berdiri di atas dok sambil memperhatikan seekor anjing lain berenang di air .
+944788251_a0bcd4b960.jpg#2	Seorang anak laki-laki dan seekor anjing besar berdiri di atas dermaga sambil memperhatikan seekor anjing lain berenang di air .
 944788251_a0bcd4b960.jpg#3	Seorang anak laki-laki dan anjingnya sedang mengamati benda di air .
 944788251_a0bcd4b960.jpg#4	seorang anak laki-laki dengan kemeja putih dan seekor anjing hitam memandangi seekor anjing lain di dalam air
 945509052_740bb19bc3.jpg#0	Seorang gadis duduk di pantai di bawah kerai merah muda yang cerah .
