@@ -132,21 +132,22 @@ class Flickr8kSingleWordGenerator(Generator):
             sentence_length = len(self.tokenizer.texts_to_sequences(sentence)[0]) - 1
             sentence_sequence = self.tokenizer.texts_to_sequences(sentence)[0]
             for index in range(sentence_length):
-                self.partial_captions.append(sentence_sequence[:index + 1])
+                try:
+                    self.partial_captions.append(sentence_sequence[:index + 1])
+                except AttributeError:
+                    self.partial_captions = self.partial_captions.tolist()
+                    self.partial_captions.append(sentence_sequence[:index + 1])
                 self.count += 1
                 one_hot_numpy_array = np.zeros(self.vocab_size)
                 one_hot_numpy_array[sentence_sequence[index + 1] - 1] = 1
                 self.next_word.append(one_hot_numpy_array)
                 self.images.append(current_image)
                 if self.count >= self._batch_size:
-                    self.partial_captions_sequence = sequence.pad_sequences(self.partial_captions, maxlen=40,
-                                                                            padding='post')
+                    self.partial_captions_sequence = sequence.pad_sequences(self.partial_captions, maxlen=40, padding='post')
                     indices = list(range(len(self.next_word)))
                     indices = shuffle_array(indices) if self.shuffle else indices
                     yield [[np.array(self.images)[indices], self.partial_captions_sequence[indices]],
                            np.array(self.next_word)[indices]]
-                    # print([[np.array(self.images)[indices], self.partial_captions[indices]],
-                    #        np.array(self.next_word)[indices]])
                     self._reset()
 
     def _reset(self):

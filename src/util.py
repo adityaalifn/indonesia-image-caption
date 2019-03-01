@@ -6,7 +6,7 @@ import numpy as np
 from grpc.beta import implementations
 from keras.applications import inception_v3
 from keras.preprocessing.image import img_to_array, load_img
-from tensorflow_serving.apis import prediction_service_pb2, predict_pb2
+# from tensorflow_serving.apis import prediction_service_pb2, predict_pb2
 
 
 def shuffle_dict(dictionaries):
@@ -26,17 +26,17 @@ def convert_image_to_numpy_array(path, target_size=(299, 299)):
     return inception_v3.preprocess_input(img_array)
 
 
-def get_stub_and_request():
-    stub = prediction_service_pb2.beta_create_PredictionService_stub(implementations.insecure_channel(
-        'localhost',
-        int(8500)
-    ))
+# def get_stub_and_request():
+#     stub = prediction_service_pb2.beta_create_PredictionService_stub(implementations.insecure_channel(
+#         'localhost',
+#         int(8500)
+#     ))
 
-    request = predict_pb2.PredictRequest()
-    request.model_spec.name = 'inception'
-    request.model_spec.signature_name = 'predict'
+#     request = predict_pb2.PredictRequest()
+#     request.model_spec.name = 'inception'
+#     request.model_spec.signature_name = 'predict'
 
-    return stub, request
+#     return stub, request
 
 
 def get_tokenizer():

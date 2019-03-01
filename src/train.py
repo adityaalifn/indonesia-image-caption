@@ -45,7 +45,7 @@ class TrainInceptionV3GRU(Train):
             self.model.load_weights(existing_model_path)
 
     def run(self):
-        callback = Callback('InceptionV3GRU', language=self.language)
+        callback = Callback('InceptionV3GRU_' + self.model.layers[-2].name, language=self.language)
 
         self.model.fit_generator(
             generator=self._train_generator,
@@ -89,7 +89,7 @@ class ImageCaptionSingleWordTrain(Train):
             self.model.load_weights(existing_model_path)
 
     def run(self):
-        callback = Callback('ImageCaptionSingleWord', language=self.language)
+        callback = Callback('ImageCaptionSingleWord' + self.model.layers[-2].name, language=self.language)
 
         self.model.fit_generator(generator=self._train_generator,
                                  steps_per_epoch=6000 * 5 * 13 // self._batch_size,

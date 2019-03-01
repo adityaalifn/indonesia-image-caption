@@ -10,7 +10,7 @@ from PIL import Image
 from keras.preprocessing import sequence
 
 from src.modeler.modeler import ImageCaptionModeler
-from src.util import convert_image_to_numpy_array, get_stub_and_request
+from src.util import convert_image_to_numpy_array
 
 
 class Predict(object):
@@ -52,55 +52,55 @@ class InceptionV3GRUPredict(Predict):
 
         return captions, tokens
 
-    def predict_on_serving(self, image_path, max_words=30, show_image=False):
-        tokenizer = InceptionV3GRUPredict().tokenizer
-        try:
-            image = convert_image_to_numpy_array(image_path)
-        except AttributeError:
-            image = image_path
+    # def predict_on_serving(self, image_path, max_words=30, show_image=False):
+    #     tokenizer = InceptionV3GRUPredict().tokenizer
+    #     try:
+    #         image = convert_image_to_numpy_array(image_path)
+    #     except AttributeError:
+    #         image = image_path
 
-        shape = (1, max_words)
-        decoder_input = np.zeros(shape=shape, dtype=np.int)
+    #     shape = (1, max_words)
+    #     decoder_input = np.zeros(shape=shape, dtype=np.int)
 
-        word_dict = dict(map(reversed, tokenizer.word_index.items()))
-        token_int = tokenizer.word_index['start']
-        predicted_caption = ""
+    #     word_dict = dict(map(reversed, tokenizer.word_index.items()))
+    #     token_int = tokenizer.word_index['start']
+    #     predicted_caption = ""
 
-        count_tokens = 0
-        pred_word = ''
-        pred_token = []
+    #     count_tokens = 0
+    #     pred_word = ''
+    #     pred_token = []
 
-        stub, request = get_stub_and_request()
-        while pred_word != '<end>' and count_tokens < max_words:
-            predicted_caption += " " + pred_word
+    #     stub, request = get_stub_and_request()
+    #     while pred_word != '<end>' and count_tokens < max_words:
+    #         predicted_caption += " " + pred_word
 
-            decoder_input[0, count_tokens] = token_int
+    #         decoder_input[0, count_tokens] = token_int
 
-            x_data = {'image': np.expand_dims(image, axis=0),
-                      'sequence_input': decoder_input}
+    #         x_data = {'image': np.expand_dims(image, axis=0),
+    #                   'sequence_input': decoder_input}
 
-            for k, v in x_data.items():
-                request.inputs[k].CopyFrom(
-                    tf.contrib.util.make_tensor_proto(
-                        v,
-                        shape=v.shape,
-                        dtype=tf.float32
-                    ))
+    #         for k, v in x_data.items():
+    #             request.inputs[k].CopyFrom(
+    #                 tf.contrib.util.make_tensor_proto(
+    #                     v,
+    #                     shape=v.shape,
+    #                     dtype=tf.float32
+    #                 ))
 
-            result = stub.Predict(request, 5)
-            array_result = np.array(result.outputs['sequence_output'].float_val)
-            token_one_hot = np.reshape(array_result, (1, max_words, len(tokenizer.word_index) + 1))
-            token_int = np.argmax(token_one_hot[0, count_tokens, :])
+    #         result = stub.Predict(request, 5)
+    #         array_result = np.array(result.outputs['sequence_output'].float_val)
+    #         token_one_hot = np.reshape(array_result, (1, max_words, len(tokenizer.word_index) + 1))
+    #         token_int = np.argmax(token_one_hot[0, count_tokens, :])
 
-            pred_token.append(token_int)
-            count_tokens += 1
-            pred_word = word_dict[token_int]
+    #         pred_token.append(token_int)
+    #         count_tokens += 1
+    #         pred_word = word_dict[token_int]
 
-        if show_image:
-            plt.imshow(Image.open(image_path))
-            plt.title(predicted_caption)
-            plt.show()
-        return predicted_caption
+    #     if show_image:
+    #         plt.imshow(Image.open(image_path))
+    #         plt.title(predicted_caption)
+    #         plt.show()
+    #     return predicted_caption
 
     def predict(self, image_path, max_words=30, show_image=False):
         try:

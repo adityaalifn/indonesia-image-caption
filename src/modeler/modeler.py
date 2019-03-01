@@ -62,7 +62,7 @@ class ImageCaptionModeler(Modeler):
         decoder_input = Input(shape=(None,), name='decoder_input')
 
         net = decoder_input
-        net = Embedding(input_dim=vocab_size + 1, output_dim=128, name='decoder_embedding')(net)
+        net = Embedding(input_dim=vocab_size + 1, output_dim=128, name='decoder_embedding', dropout=0.2)(net)
 
         net = GRU(512, name='decoder_gru1', return_sequences=True)(net, initial_state=image_dense)
         net = GRU(512, name='decoder_gru2', return_sequences=True)(net, initial_state=image_dense)
