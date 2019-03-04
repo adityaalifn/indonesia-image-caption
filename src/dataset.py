@@ -1,4 +1,5 @@
 import itertools
+import os
 
 from keras.preprocessing.text import Tokenizer
 from tensorflow.python.lib.io import file_io
@@ -40,24 +41,26 @@ class Flickr8kDataset(Dataset):
         self._load_captions()
 
     def _load_filenames(self):
-        with open(self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.TRAIN_FILE],
-                  'r') as file:
-            self.train_filenames = file.read().split('\n')[:-1]
-
-        with open(self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.VALIDATION_FILE],
-                  'r') as file:
+        with open(self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR30K][DatasetKeys.VALIDATION_FILE], 'r') as file:
             self.validation_filenames = file.read().split('\n')[:-1]
+        self.validation_filenames = [filename.split("_")[0] + ".jpg" for filename in self.validation_filenames]
 
-        with open(self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.TEST_FILE], 'r') as file:
+        with open(self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR30K][DatasetKeys.TEST_FILE], 'r') as file:
             self.test_filenames = file.read().split('\n')[:-1]
+        self.test_filenames = [filename.split("_")[0] + ".jpg" for filename in self.test_filenames]
+
+        self.train_filenames = os.listdir(
+            self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR30K][DatasetKeys.IMAGE_FOLDER])
+        self.train_filenames = list(
+            set(self.train_filenames) - set(self.validation_filenames) - set(self.test_filenames))
 
     def _load_captions(self):
-        caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][
+        caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR30K][
             DatasetKeys.CAPTION_TOKEN_FILE_ENGLISH]
         if self.language == "indonesia":
-            caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][
+            caption_filename = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR30K][
                 DatasetKeys.CAPTION_TOKEN_FILE_INDONESIA]
-        with open(caption_filename, 'r') as file:
+        with open(caption_filename, 'r', encoding='utf-8') as file:
             for row in file.read().split('\n')[:-1]:
                 row = row.split('\t')
                 file_name = row[0].split('#')[0]
@@ -65,6 +68,7 @@ class Flickr8kDataset(Dataset):
                     self.captions[file_name].append(row[1])
                 else:
                     self.captions[file_name] = [row[1]]
+        print(self.captions)
 
     def get_train_dataset(self):
         train_filename_dataset = []

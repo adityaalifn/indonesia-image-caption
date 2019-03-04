@@ -1,6 +1,7 @@
 import tensorflow as tf
 from keras.applications.inception_v3 import InceptionV3
-from keras.layers import Dense, Embedding, GRU, RepeatVector, TimeDistributed, Bidirectional, concatenate
+from keras.layers import Dense, Embedding, GRU, RepeatVector, TimeDistributed, Bidirectional, concatenate, \
+    SpatialDropout1D
 from keras.models import Input, Model
 from keras.optimizers import Adam
 from keras.utils import multi_gpu_model
@@ -62,12 +63,12 @@ class ImageCaptionModeler(Modeler):
         decoder_input = Input(shape=(None,), name='decoder_input')
 
         net = decoder_input
-        net = Embedding(input_dim=vocab_size + 1, output_dim=128, name='decoder_embedding', dropout=0.2)(net)
+        net = Embedding(input_dim=vocab_size + 1, output_dim=128, name='decoder_embedding')(net)
+        net = SpatialDropout1D(rate=0.2)(net)
 
         net = GRU(512, name='decoder_gru1', return_sequences=True)(net, initial_state=image_dense)
         net = GRU(512, name='decoder_gru2', return_sequences=True)(net, initial_state=image_dense)
         net = GRU(512, name='decoder_gru3', return_sequences=True)(net, initial_state=image_dense)
-
         decoder_output = Dense(vocab_size + 1, activation='linear', name='decoder_output')(net)
 
         decoder_model = Model([inception_v3.input, decoder_input],

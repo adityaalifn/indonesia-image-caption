@@ -10,6 +10,17 @@
       "start_mark": " <start> ",
       "end_mark": " <end> ",
       "batch_size": 64
+    },
+    "flickr30k": {
+      "image_folder": "dataset/flickr30k/flickr30k-images/",
+      "caption_token_file": "dataset/flickr30k/Flickr30k.token.txt",
+      "caption_token_file_indonesia": "dataset/flickr30k/Flickr30k.token.indo.txt",
+      "train_file": "dataset/flickr8k/Flickr_8k.trainImages.txt",
+      "validation_file": "dataset/flickr8k/Flickr_8k.devImages.txt",
+      "test_file": "dataset/flickr8k/Flickr_8k.testImages.txt",
+      "start_mark": " <start> ",
+      "end_mark": " <end> ",
+      "batch_size": 64
     }
   },
   "modeler": {

@@ -9,6 +9,7 @@ class DatasetKeys:
     BATCH_SIZE = 'batch_size'
     IMAGE_FOLDER = 'image_folder'
     FLICKR8K = "flickr8k"
+    FLICKR30K = "flickr30k"
     DATASET_NAME = "dataset_name"
     DATASET_DIR = "dataset_dir"
     TOKEN_FOLDER = "token_folder"

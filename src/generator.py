@@ -13,7 +13,8 @@ from src.util import shuffle_dict, shuffle_array, convert_image_to_numpy_array
 class Generator(object):
     def __init__(self, config=CONFS, batch_size=None):
         self._config = config
-        self._batch_size = batch_size or self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.BATCH_SIZE]
+        self._batch_size = batch_size or self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR30K][
+            DatasetKeys.BATCH_SIZE]
 
     def train_generator(self):
         pass
@@ -64,7 +65,7 @@ class Flickr8kGenerator(Generator):
                 self._reset()
 
     def _preprocess_batch(self, batch_filenames, batch_captions):
-        img_folder_path = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR8K][DatasetKeys.IMAGE_FOLDER]
+        img_folder_path = self._config[DatasetKeys.DATASET][DatasetKeys.FLICKR30K][DatasetKeys.IMAGE_FOLDER]
         batch_img_path = [img_folder_path + filename for filename in batch_filenames]
         batch_img_arr = [self.ip.preprocess_image(img_path) for img_path in batch_img_path]
 

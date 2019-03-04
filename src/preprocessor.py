@@ -15,13 +15,14 @@ class CaptionsPreprocessor(Preprocessor):
 
     def __init__(self,
                  captions,
-                 num_words=10000,
+                 num_words=20000,
                  filters=Tokenizer().filters.replace("<", "").replace(">", "").replace("-", "")):
         super().__init__()
         self.tokenizer = Tokenizer(num_words=num_words, filters=filters)
         self.captions = self.mark_captions(captions)
         self.tokenizer.fit_on_texts(texts=self.captions)
         self.vocab_size = len(self.tokenizer.word_index)
+        print(len(self.tokenizer.word_counts))
 
     def mark_captions(self, captions):
         start_mark = '<start> '
