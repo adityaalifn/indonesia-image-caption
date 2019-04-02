@@ -15,14 +15,16 @@ class CaptionsPreprocessor(Preprocessor):
 
     def __init__(self,
                  captions,
-                 num_words=20000,
-                 filters=Tokenizer().filters.replace("<", "").replace(">", "").replace("-", "")):
+                 num_words=10000,
+                 filters=Tokenizer().filters.replace("<", "").replace(">", "").replace("-", "").replace(",", "")):
         super().__init__()
         self.tokenizer = Tokenizer(num_words=num_words, filters=filters)
         self.captions = self.mark_captions(captions)
         self.tokenizer.fit_on_texts(texts=self.captions)
         self.vocab_size = len(self.tokenizer.word_index)
-        print(len(self.tokenizer.word_counts))
+        self.max_len = 40
+        print("----- WORD COUNT -----")
+        print(self.vocab_size)
 
     def mark_captions(self, captions):
         start_mark = '<start> '
@@ -35,7 +37,7 @@ class CaptionsPreprocessor(Preprocessor):
         return self.tokenizer.texts_to_sequences(captions)
 
     @staticmethod
-    def pad_sequences(sequences, maxlen=30):
+    def pad_sequences(sequences, maxlen=40):
         return pad_sequences(sequences, maxlen=maxlen, padding="post", truncating="post")
 
     def shift_sequences(self, sequences):
@@ -61,7 +63,7 @@ class CaptionsPreprocessor(Preprocessor):
 class ImagePreprocessor(Preprocessor):
     _IMAGE_SIZE = (299, 299)
 
-    def __init__(self, image_augmentation=True):
+    def __init__(self, image_augmentation=False):
         super().__init__()
         self._image_augmentation = image_augmentation
         self._image_data_generator = ImageDataGenerator(rotation_range=40,

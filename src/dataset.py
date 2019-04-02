@@ -68,7 +68,6 @@ class Flickr8kDataset(Dataset):
                     self.captions[file_name].append(row[1])
                 else:
                     self.captions[file_name] = [row[1]]
-        print(self.captions)
 
     def get_train_dataset(self):
         train_filename_dataset = []

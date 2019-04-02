@@ -9,7 +9,7 @@
       "test_file": "dataset/flickr8k/Flickr_8k.testImages.txt",
       "start_mark": " <start> ",
       "end_mark": " <end> ",
-      "batch_size": 64
+      "batch_size": 32
     },
     "flickr30k": {
       "image_folder": "dataset/flickr30k/flickr30k-images/",
@@ -20,7 +20,7 @@
       "test_file": "dataset/flickr8k/Flickr_8k.testImages.txt",
       "start_mark": " <start> ",
       "end_mark": " <end> ",
-      "batch_size": 64
+      "batch_size": 32
     }
   },
   "modeler": {

@@ -1,11 +1,11 @@
 import argparse
 import csv
+import os
 import pickle
 from math import log
 
 import matplotlib.pyplot as plt
 import numpy as np
-import tensorflow as tf
 from PIL import Image
 from keras.preprocessing import sequence
 
@@ -20,17 +20,18 @@ class Predict(object):
 
 class InceptionV3GRUPredict(Predict):
 
-    def __init__(self, weight_path=None, language='english'):
+    def __init__(self, weight_path=None, tokenizer_path=None, language='english'):
         super().__init__()
-        self.tokenizer = self._load_tokenizer(language=language)
+        self.tokenizer = self._load_tokenizer(language=language, path=tokenizer_path)
         self.weight_path = weight_path
+        self.model = None
         self.load_model()
 
         self.start_token = self.tokenizer.word_index['<start>']
         self.end_token = self.tokenizer.word_index['<end>']
 
     def load_model(self):
-        self.model = ImageCaptionModeler().get_model(len(self.tokenizer.word_index))
+        self.model = ImageCaptionModeler().get_model(len(self.tokenizer.word_index), tokenizer=self.tokenizer)
         self.model.load_weights(self.weight_path)
 
     def predict_batch(self, images_path, max_words=30, save_prediction_to_file=True, save_mode='caption'):
@@ -102,7 +103,7 @@ class InceptionV3GRUPredict(Predict):
     #         plt.show()
     #     return predicted_caption
 
-    def predict(self, image_path, max_words=30, show_image=False):
+    def predict(self, image_path, max_words=40, show_image=False, save_result=False):
         try:
             image_arr = convert_image_to_numpy_array(image_path)
         except AttributeError:
@@ -136,17 +137,26 @@ class InceptionV3GRUPredict(Predict):
 
             count_tokens += 1
 
+        predicted_caption = predicted_caption.replace(" <end>", "")
+
         if show_image:
             plt.imshow(Image.open(image_path))
             plt.title(predicted_caption)
             plt.show()
 
+        if save_result:
+            plt.imshow(Image.open(image_path))
+            plt.title(predicted_caption)
+            image_name = image_path.split('//')[-1]
+            plt.savefig('test/' + image_name)
+
         return predicted_caption, pred_token
 
-    def _load_tokenizer(self, language):
-        tokenizer_path = 'models/tokenizer.pickle'
+    def _load_tokenizer(self, language, path=None):
+        tokenizer_path = path or 'models/tokenizer.pickle'
         if language == 'indonesia':
-            tokenizer_path = 'models/tokenizer_indonesia.pickle'
+            tokenizer_path = path or 'models/tokenizer_indonesia.pickle'
+        print(path)
         with open(tokenizer_path, 'rb') as handle:
             return pickle.load(handle)
 

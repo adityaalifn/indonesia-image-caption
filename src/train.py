@@ -37,9 +37,9 @@ class TrainInceptionV3GRU(Train):
         self._train_data_amount = len(self._generator.train_captions)
         self._validation_data_amount = len(self._generator.validation_captions)
         self._tokenizer = self._generator.cp.tokenizer
-        self.model = ImageCaptionModeler().get_model(self._generator.cp.vocab_size)
-        self.score_model = score_model
-
+        self.model = ImageCaptionModeler().get_model(self._generator.cp.vocab_size,
+                                                     tokenizer=self._generator.cp.tokenizer)
+        self._score_model = score_model
         # load previous model if exist
         if os.path.exists(existing_model_path):
             self.model.load_weights(existing_model_path)
@@ -50,9 +50,9 @@ class TrainInceptionV3GRU(Train):
         self.model.fit_generator(
             generator=self._train_generator,
             steps_per_epoch=self._train_data_amount // self._batch_size,
-            epochs=20,
+            epochs=5,
             validation_data=self._validation_generator,
-            validation_steps=16,
+            validation_steps=64,
             callbacks=callback.callbacks
         )
 
@@ -68,7 +68,7 @@ class TrainInceptionV3GRU(Train):
         # Save model for serving
         self._serving.save_model(self.model)
 
-        if self.score_model:
+        if self._score_model:
             bs = BleuScore()
             bs.get_model_score(weight_path=model_weight_path, language=self.language)
 

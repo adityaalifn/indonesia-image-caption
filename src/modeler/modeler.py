@@ -1,9 +1,10 @@
+import gensim
+import numpy as np
 import tensorflow as tf
 from keras.applications.inception_v3 import InceptionV3
-from keras.layers import Dense, Embedding, GRU, RepeatVector, TimeDistributed, Bidirectional, concatenate, \
-    SpatialDropout1D
+from keras.layers import Dense, Embedding, GRU, RepeatVector, TimeDistributed, Bidirectional, concatenate
 from keras.models import Input, Model
-from keras.optimizers import Adam
+from keras.optimizers import RMSprop
 from keras.utils import multi_gpu_model
 
 from src.config import CONFS
@@ -53,7 +54,25 @@ class ImageCaptionModeler(Modeler):
     def __init__(self):
         super().__init__()
 
-    def get_model(self, vocab_size, *args, **kwargs):
+    @staticmethod
+    def _load_pretrained_word2vec(vocab_size, tokenizer):
+        model = gensim.models.word2vec.Word2Vec.load('models/word_embeddings/word2vec/id.bin')
+
+        embedding_matrix = np.zeros((vocab_size + 1, 300))
+        for word, i in tokenizer.word_index.items():
+            try:
+                embedding_matrix[i] = model[word]
+            except KeyError:
+                pass
+
+        return embedding_matrix
+
+    def get_model(self, vocab_size, tokenizer=None, *args, **kwargs):
+        if tokenizer is not None:
+            print("[INFO] USING PRE-TRAINED WORD EMBEDDING WEIGHT")
+            embedding_matrix = self._load_pretrained_word2vec(vocab_size, tokenizer)
+        else:
+            print("[INFO] NOT USING PRE-TRAINED WORD EMBEDDING WEIGHT")
         inception_v3 = InceptionV3(include_top=False, weights='imagenet', pooling='avg')
         for layer in inception_v3.layers:
             layer.trainable = False
@@ -63,21 +82,22 @@ class ImageCaptionModeler(Modeler):
         decoder_input = Input(shape=(None,), name='decoder_input')
 
         net = decoder_input
-        net = Embedding(input_dim=vocab_size + 1, output_dim=128, name='decoder_embedding')(net)
-        net = SpatialDropout1D(rate=0.2)(net)
+        net = Embedding(input_dim=vocab_size + 1, output_dim=300, name='decoder_embedding',
+                        weights=[embedding_matrix])(net)
 
         net = GRU(512, name='decoder_gru1', return_sequences=True)(net, initial_state=image_dense)
         net = GRU(512, name='decoder_gru2', return_sequences=True)(net, initial_state=image_dense)
-        net = GRU(512, name='decoder_gru3', return_sequences=True)(net, initial_state=image_dense)
+        # net = GRU(512, name='decoder_gru3', return_sequences=True)(net, initial_state=image_dense)
         decoder_output = Dense(vocab_size + 1, activation='linear', name='decoder_output')(net)
 
         decoder_model = Model([inception_v3.input, decoder_input],
                               outputs=[decoder_output])
 
         decoder_target = tf.placeholder(dtype='int32', shape=(None, None))
-        optimizer = Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=1e-08, decay=0.0)
+
+        optimizer = RMSprop(lr=0.001, rho=0.9, epsilon=1e-08, decay=0.0)
         decoder_model.compile(
-            optimizer='rmsprop',
+            optimizer=optimizer,
             loss=self.sparse_cross_entropy,
             # metrics=[self.bleu_score_metric],
             target_tensors=[decoder_target])
@@ -119,4 +139,5 @@ class ImageCaptionGruModeler(Modeler):
 
 
 if __name__ == '__main__':
-    print(ImageCaptionModeler().get_model(10000).summary())
+    # print(ImageCaptionModeler().get_model(10000).summary())
+    ImageCaptionModeler()._load_pretrained_word2vec()

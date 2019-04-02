@@ -1,3 +1,4 @@
+import datetime
 import pickle
 
 import numpy as np
@@ -34,10 +35,11 @@ class Flickr8kGenerator(Generator):
         self.validation_filenames, self.validation_captions = self.dataset.get_validation_dataset()
         self.test_filenames, self.test_captions = self.dataset.get_test_dataset()
         self.ip = ImagePreprocessor(image_augmentation=False)
-        self.cp = CaptionsPreprocessor(captions=self.train_captions + self.validation_captions)
+        self.cp = CaptionsPreprocessor(captions=self.train_captions + self.validation_captions, num_words=10000)
         self._reset()
 
-        with open('models/tokenizer_' + language + '.pickle', 'wb') as handle:
+        with open('models/tokenizer_' + language + '_' + str(
+                datetime.datetime.now().strftime('%Y-%m-%d %Hh%Mm%Ss')).replace(" ", "_") + '.pickle', 'wb') as handle:
             pickle.dump(self.cp.tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     def train_generator(self):
@@ -144,7 +146,8 @@ class Flickr8kSingleWordGenerator(Generator):
                 self.next_word.append(one_hot_numpy_array)
                 self.images.append(current_image)
                 if self.count >= self._batch_size:
-                    self.partial_captions_sequence = sequence.pad_sequences(self.partial_captions, maxlen=40, padding='post')
+                    self.partial_captions_sequence = sequence.pad_sequences(self.partial_captions, maxlen=40,
+                                                                            padding='post')
                     indices = list(range(len(self.next_word)))
                     indices = shuffle_array(indices) if self.shuffle else indices
                     yield [[np.array(self.images)[indices], self.partial_captions_sequence[indices]],

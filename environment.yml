@@ -7,12 +7,12 @@ dependencies:
       - tensorflow
       - h5py
       - keras
-    - jupyter
+      - jupyter
       - pillow
-    - matplotlib
-    - nltk
-    - opencv-python
-    - flask
-    - requests
+      - matplotlib
+      - nltk
+      - opencv-python
+      - flask
+      - requests
       - tensorflow-serving-api
-    - docker
+      - docker
