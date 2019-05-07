@@ -1,6 +1,8 @@
 # Amazing Image Captioning
 
 ## Citation
+This repository is implementation of this [paper](https://drive.google.com/open?id=1lPG-QwgRd5AwExVFCAHXzYXx9raLNqFs) 
+
 Please cite using this bib
 ```
 @INPROCEEDINGS{Nugr1907:Generating,
@@ -27,6 +29,11 @@ layer. The proposed model has been trained and validated with
 the translated Flickr30K dataset and obtained BLEU-1, BLEU-2,
 BLEU-3, BLEU-4 score of 36, 17, 6, 2 respectively."
 }
+```
+
+or using this
+```
+Aditya Alif Nugraha, Anditya Arifianto, and Suyanto Suyanto. Generating image description on indonesian language using convolutional neural network and gated recurrent unit. In 2019 7th International Conference on Information and Communication Technology (ICoICT) (ICoICT 2019), Kuala Lumpur, Malaysia, July 2019.
 ```
 
 ## Prerequisites
