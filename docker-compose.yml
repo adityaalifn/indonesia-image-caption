@@ -7,7 +7,7 @@ services:
     ports:
     - '8500:8500'
     volumes:
-    - '/media/tabul/DATA/GLAIR-interns/2018/aditya-alif-nugraha/models/serving_model:/bitnami'
+    - 'models/serving_model:/bitnami'
     networks:
       vpcbr:
         ipv4_address: 10.5.0.2
