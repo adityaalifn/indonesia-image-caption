@@ -16,3 +16,4 @@ dependencies:
       - requests
       - tensorflow-serving-api
       - docker
+      - gensim

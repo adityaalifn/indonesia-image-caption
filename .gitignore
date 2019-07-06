@@ -106,7 +106,7 @@ venv.bak/
 # big size file
 *.jpg
 dataset/flickr8k/Flickr8k_Dataset
-dataset/flickr30k
+dataset/flickr30k/flickr30k-images
 models
 logs
 
