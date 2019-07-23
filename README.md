@@ -131,7 +131,6 @@ python -m src.run_cctv
 
 ## Authors
 * **Aditya Alif Nugraha** - [Aditya Alif Nugraha](https://github.com/adityaalifn)
-* **Bramantyo Ardian**
 
 ## Resources
 * [Convolutional Neural Network - deeplearning.ai](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
