@@ -1,5 +1,5 @@
 flask
-tensorflow==1.12.2
+tensorflow==1.15.2
 keras
 tensorflow-serving-api-python3
 pillow
