@@ -1,7 +1,7 @@
-# Amazing Image Captioning
+# Amazing Bahasa Indonesia Image Captioning
 
 ## Citation
-This repository is implementation of this [paper](https://drive.google.com/open?id=1lPG-QwgRd5AwExVFCAHXzYXx9raLNqFs) 
+This repository is implementation of this [paper](https://ieeexplore.ieee.org/document/8835370) 
 
 Please cite using this bib
 ```
